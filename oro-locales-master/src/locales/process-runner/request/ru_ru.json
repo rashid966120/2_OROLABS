@@ -1,9 +1,9 @@
 {
-    "--requestedOn--": "Запрошено",
-    "--estimatedCompletion--": "Планируемое завершение",
-    "--completedOn--": "Завершено",
+    "--Want to Change Key--": "Запрошено",
+    "--Want to Change Key2--": "Планируемое завершение",
+    "--Want to Change Key3--": "Завершено",
     "--deniedOn--": "Отказано",
-    "--cancelledOn--": "Отменено",
+    "--Want to Change Key New Update from Client--": "Отменено",
     "--cardView--": "Карточки",
     "--listView--": "Список",
     "--listIsEmpty--": "Список пуст",
