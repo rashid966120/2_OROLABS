@@ -1,9 +1,9 @@
 {
-    "--requestedOn--": "Richiesto il",
-    "--estimatedCompletion--": "Completamento previsto",
-    "--completedOn--": "Completato il",
+    "--Want to Change Key--": "Richiesto il",
+    "--Want to Change Key2--": "Completamento previsto",
+    "--Want to Change Key3--": "Completato il",
     "--deniedOn--": "Rifiutato il",
-    "--cancelledOn--": "Annullato il",
+    "--Want to Change Key New Update from Client--": "Annullato il",
     "--cardView--": "Vista scheda",
     "--listView--": "Vista elenco",
     "--listIsEmpty--": "Questo elenco è vuoto",
