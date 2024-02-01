@@ -1,9 +1,9 @@
 {
-    "--requestedOn--": "Requested on",
-    "--estimatedCompletion--": "Estimated Completion",
-    "--completedOn--": "Completed on",
+    "--Want to Change Key--": "Requested on",
+    "--Want to Change Key2--": "Estimated Completion",
+    "--Want to Change Key3--": "Completed on",
     "--deniedOn--": "Denied on",
-    "--cancelledOn--": "Cancelled on",
+    "--Want to Change Key New Update from Client--": "Cancelled on",
     "--cardView--": "Card View",
     "--listView--": "List View",
     "--listIsEmpty--": "This list is empty",
