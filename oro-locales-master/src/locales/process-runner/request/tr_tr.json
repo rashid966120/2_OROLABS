@@ -1,9 +1,9 @@
 {
-    "--requestedOn--": "Talep edilme tarihi",
-    "--estimatedCompletion--": "Tahmini Tamamlanma",
-    "--completedOn--": "Tamamlanma",
+    "--Want to Change Key--": "Talep edilme tarihi",
+    "--Want to Change Key2--": "Tahmini Tamamlanma",
+    "--Want to Change Key3--": "Tamamlanma",
     "--deniedOn--": "Reddedilme",
-    "--cancelledOn--": "İptal edilme",
+    "--Want to Change Key New Update from Client--": "İptal edilme",
     "--cardView--": "Kart Görünümü",
     "--listView--": "Liste Görünümü",
     "--listIsEmpty--": "Bu liste boş",
