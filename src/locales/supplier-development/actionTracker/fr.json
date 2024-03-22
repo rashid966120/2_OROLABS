@@ -6,7 +6,7 @@
         "--notStarted--" : "Pas commencé",
         "--onHold--" : "En attente",
         "--cancelled--" : "Annulé",
-        "--completed--" : "Terminé",
+        "--completed--" : "Cette étape est terminée",
         "--all--" : "Tous"
     },
     "--sortOptions--": {
