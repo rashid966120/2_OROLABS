@@ -1,7 +1,7 @@
 {
     "--report--": "Rapport",
-    "--reportType--": "Type de rapport",
-    "--createdBy--": "Créé par",
+    "--reportType--": "Mise à jour du type de rapport",
+    "--createdBy--": "Créé par Rashid",
     "--lastViewed--": "Dernière consultation",
     "--custom--": "Sur mesure",
     "--standard--": "Standard",
