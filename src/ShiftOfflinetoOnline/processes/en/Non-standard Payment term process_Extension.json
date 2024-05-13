@@ -1,22 +1,22 @@
 [
   {
     "id": null,
-    "name": "Non-standard Payment term process_Extension",
+    "name": "Prozess nicht standardisierter Zahlungsbedingung_Verlängerung",
     "type": "processTitle"
   },
   {
     "id": 4,
-    "name": "Non-standard payment term approval",
+    "name": "Genehmigung nicht standardisierter Zahlungsbedingung",
     "type": null
   },
   {
     "id": 2,
-    "name": "Head of Procurement Area",
+    "name": "Leiter des Bereichs Beschaffung",
     "type": null
   },
   {
     "id": 3,
-    "name": "Head of Invoicing Area",
+    "name": "Leiter des Bereichs Rechnungsstellung",
     "type": null
   }
 ]
