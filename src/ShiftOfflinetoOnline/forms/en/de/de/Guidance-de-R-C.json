@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "Abschnitt_Anne"
+  },
+  {
+    "id": 7,
+    "fieldName": "_p_Stop_Request__p_",
+    "name": "<p>Stop Anfrage</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "choice 1":"",
+      "choice 2":"",
+      "choice 3":""
+    },
+    "type": "Feld"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Dies qualifiziert für </p><h3>ASPIRE, Conga</h3><p><br></p><p>Vielen Dank für die bereitgestellten Informationen. Basierend auf Ihrem Bedarf an einer Vereinbarung zum Verkauf / Vertrieb von Roche / Genentech Produkten, klicken Sie auf den folgenden Link, um eine Anfrage in Aspire zu starten. Wir werden uns mit Ihnen in Verbindung setzen, sobald Sie einen Antrag gestellt haben.</p><p><br></p><p><strong style=\\\"color: rgb(0, 102, 204);\\\">Klicken Sie hier, um loszulegen ️</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "Feld"
+  }
+]
