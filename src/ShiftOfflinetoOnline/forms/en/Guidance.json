@@ -7,12 +7,12 @@
     "helpText": null,
     "listItemPrefix": null,
     "choices": null,
-    "type": "section"
+    "type": "Abschnitt_Anne"
   },
   {
     "id": 7,
     "fieldName": "_p_Stop_Request__p_",
-    "name": "<p>Stop Request</p>",
+    "name": "<p>Stop Anfrage</p>",
     "description": null,
     "helpText": null,
     "listItemPrefix": null,
@@ -21,16 +21,16 @@
       "choice 2":"",
       "choice 3":""
     },
-    "type": "field"
+    "type": "Feld"
   },
   {
     "id": 4,
     "fieldName": null,
     "name": null,
-    "description": "\"<p>This qualifies for </p><h3>ASPIRE, Conga</h3><p><br></p><p>Thank you for the information provided. Based on your need for an agreement to sell / distribute Roche / Genentech products, click on the following link to start a request in Aspire. We will reach out to you once you have raised for request.</p><p><br></p><p><strong style=\\\"color: rgb(0, 102, 204);\\\">Click here to get started ↗️</strong></p>\"",
+    "description": "\"<p>Dies qualifiziert für </p><h3>ASPIRE, Conga</h3><p><br></p><p>Vielen Dank für die bereitgestellten Informationen. Basierend auf Ihrem Bedarf an einer Vereinbarung zum Verkauf / Vertrieb von Roche / Genentech Produkten, klicken Sie auf den folgenden Link, um eine Anfrage in Aspire zu starten. Wir werden uns mit Ihnen in Verbindung setzen, sobald Sie einen Antrag gestellt haben.</p><p><br></p><p><strong style=\\\"color: rgb(0, 102, 204);\\\">Klicken Sie hier, um loszulegen ️</strong></p>\"",
     "helpText": null,
     "listItemPrefix": null,
     "choices": null,
-    "type": "field"
+    "type": "Feld"
   }
 ]
