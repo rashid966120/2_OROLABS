@@ -6,13 +6,13 @@
         "--notStarted--" : "Not started",
         "--onHold--" : "On hold",
         "--cancelled--" : "Cancelled",
-        "--completed--" : "Completed this step",
+        "--completed--" : "Completed this step Source Updated by Rashid",
         "--all--" : "All"
     },
     "--sortOptions--": {
         "--sortBy--" : "Sort by",
         "--createdDateNewOld--" : "Created Date (New to Old)",
-        "--createdDateOldNew--" : "Created Date (Old to New)",
+        "--createdDateOldNew--" : "Created Date (Old to New) Source Updated by Rashid",
         "--dueDateNewOld--" : "Due Date (New to Old)",
         "--dueDateOldNew--" : "Due Date (Old to New)",
         "--idDescending--" : "ID (Descending)",
