@@ -1,12 +1,12 @@
 [
   {
     "id": null,
-    "name": "Non-standard Payment term process_Extension Source Updated by Rashid",
+    "name": "Non-standard Payment term process_Extension",
     "type": "processTitle"
   },
   {
     "id": 4,
-    "name": "Non-standard payment term approval Source Updated by Rashid",
+    "name": "Non-standard payment term approval",
     "type": null
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "id": 3,
-    "name": "Head of Invoicing Area Source Updated by Rashid",
+    "name": "Head of Invoicing Area",
     "type": null
   }
 ]
