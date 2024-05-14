@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "ääääääää äääääääää ääääääääää ääääää äääääää ää ääääää",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "äääääääää"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "äääääää"
+  },
+  {
+    "id": 4,
+    "fieldName": "äääääääääääääää ääääää äääääää ää ääääää",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">ääääääää ääääää/ä äääääääää äää äääääääää</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "äääää"
+  }
+]
