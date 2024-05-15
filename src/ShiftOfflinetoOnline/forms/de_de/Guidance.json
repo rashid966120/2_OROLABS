@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "_p_Stop_Request__p_",
+    "name": "<p>ääää äääääää</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "choice 1":"",
+      "choice 2":"",
+      "choice 3":""
+    },
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>ääää äääääääää äää </p><h3>ääääää, äääää</h3><p><br></p><p>äääää äää äää äää äääääääääää ääääääää. äääää ää ääää ääää äää ää äääääääää ää ääää / ääääääääää äääää / äääääääää ääääääää, äääää ää äää äääääääää ääää ää äääää ä äääääää ää ääääää. ää ääää äääää äää ää äää ääää äää ääää ääääää äää äääääää.</p><p><br></p><p><strong style=\"\\&quot;color:\" rgb(0, 102, 204);\\\">äääää ääää ää äää äääääää ↗️</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
