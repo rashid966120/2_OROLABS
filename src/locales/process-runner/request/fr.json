@@ -1,0 +1,14 @@
+{
+    "--requestedOn--": "Demandé le",
+    "--estimatedCompletion--": "Estimation de l'achèvement",
+    "--completedOn--": "Achevé le",
+    "--deniedOn--": "Refusé le",
+    "--cancelledOn--": "Annulé le",
+    "--cardView--": "Affichage carte",
+    "--listView--": "Affichage liste",
+    "--listIsEmpty--": "Cette liste est vide",
+    "--addRequestsToListOrDeleteList--": "Ajouter des demandes à la liste / supprimer cette liste si elle n'est plus utilisée",
+    "--addToList--": "Ajouter à la liste",
+    "--deleteList--": "Supprimer la liste",
+    "--areYouSureYouWantToPermanentlyDeleteThisList--": "Souhaitez-vous vraiment supprimer définitivement cette liste ?"
+}

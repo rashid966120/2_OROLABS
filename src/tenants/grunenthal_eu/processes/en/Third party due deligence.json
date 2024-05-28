@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "name": "Third party due deligence",
+    "type": "processTitle"
+  },
+  {
+    "id": 9,
+    "name": "Find applicable due diligence process",
+    "type": null
+  },
+  {
+    "id": 96,
+    "name": "Load Main Contact",
+    "type": null
+  },
+  {
+    "id": 181,
+    "name": "Collect Supplier Questionnaires",
+    "type": null
+  },
+  {
+    "id": 168,
+    "name": "Collect supplier documents",
+    "type": null
+  },
+  {
+    "id": 157,
+    "name": "Collect supplier documents",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Due Diligence and Risk Scoring",
+    "type": null
+  },
+  {
+    "id": 95,
+    "name": "Compliance approval for risky Suppliers",
+    "type": null
+  },
+  {
+    "id": 38,
+    "name": "Notify Requestor when Vendor Risk is High ",
+    "type": null
+  },
+  {
+    "id": 66,
+    "name": "Notify Procurement Center when Vendor Risk High  ",
+    "type": null
+  }
+]

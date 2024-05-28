@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "name": "Aktualisierung von Lieferantendaten",
+    "type": "processTitle"
+  },
+  {
+    "id": 2,
+    "name": "Lieferantenfragebogen ",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Zahlungsdetails",
+    "type": null
+  },
+  {
+    "id": 21,
+    "name": "Informationen zum Unternehmen",
+    "type": null
+  },
+  {
+    "id": 9,
+    "name": "Überprüfung durch Beschaffungsstelle",
+    "type": null
+  },
+  {
+    "id": 17,
+    "name": "Genehmigung nicht standardisierter Zahlungsbedingungen (Lieferanten-Aktualisierungsprozess)",
+    "type": null
+  },
+  {
+    "id": 15,
+    "name": "Leiter des Bereichs Beschaffung",
+    "type": null
+  },
+  {
+    "id": 16,
+    "name": "Leiter des Bereichs Rechnungsstellung",
+    "type": null
+  },
+  {
+    "id": 14,
+    "name": "Prozess nicht standardisierter Zahlungsbedingung_Verlängerung",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Überprüfung der Lieferantenstammdaten",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "Lieferantendatensatz in Syniti aktualisieren",
+    "type": null
+  },
+  {
+    "id": 24,
+    "name": "Lieferantenaktualisierung im SAP-System - Bestätigung",
+    "type": null
+  },
+  {
+    "id": 22,
+    "name": "An Antragsteller",
+    "type": null
+  },
+  {
+    "id": 23,
+    "name": "An die Beschaffungsstelle",
+    "type": null
+  }
+]

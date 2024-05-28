@@ -1,0 +1,222 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Assessment for Main Vendor - Supplier",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Assessment",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 55,
+        "fieldName": "noAssessmentWarning",
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>No Assessment needed for this Vendor.</em></strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 50,
+        "fieldName": "_p_Is_Assessment_Required__p_",
+        "name": "<p>Is Assessment Required</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "auditType",
+        "name": "<p><strong>What is the audit type?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "OnSite": "OnSite",
+            "Remote": "Remote"
+        },
+        "type": "field"
+    },
+    {
+        "id": 10,
+        "fieldName": "noOfAuditDays",
+        "name": "<p><strong>Number of audit days required?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 12,
+        "fieldName": "noOfAuditors",
+        "name": "<p><strong>Number of auditors required?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 25,
+        "fieldName": "assessmentAssignee",
+        "name": "<p><strong>Please provide email of Lonza employee assigned to perform assessment of the supplier</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 4,
+        "fieldName": "assessmentType",
+        "name": "<p><strong>Assessment requirement required for full qualification?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "Onsite/Remote": "Onsite/Remote",
+            "Paper": "Paper"
+        },
+        "type": "field"
+    },
+    {
+        "id": 72,
+        "fieldName": "datesForAudit",
+        "name": "<p><strong>Please propose up to three different dates for the audit</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 52,
+        "fieldName": "q52__p__strong_Requested_latest_da",
+        "name": "<p><strong>Requested latest date for placing PO</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 15,
+        "fieldName": "latestDateForAudit",
+        "name": "<p><strong>What is the latest date for the audit?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "> 6 months": "> 6 months",
+            "< 3 months": "< 3 months",
+            "3 to 6 months": "3 to 6 months"
+        },
+        "type": "field"
+    },
+    {
+        "id": 66,
+        "fieldName": "helpTextForGreaterThan",
+        "name": "null(1)",
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Lonza will need to perform a Onsite/Remote assessment of your facility with the above mentioned Auditors for mentioned days. If you can host this audit at the latest by the date given above, you only need to complete the attachments marked as “mandatory”; otherwise you will also need to complete the additional questionnaires.&nbsp;</strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 64,
+        "fieldName": null,
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Please complete all questionnaires attached.</strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 69,
+        "fieldName": "willSetupAudit",
+        "name": "<p><strong>Will you be able to host the Audit in the selected timeline?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 18,
+        "fieldName": "mandatoryAuditQuestionnaires",
+        "name": "<p><strong>Download the mandatory questionnaires (for audit preparation)</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 74,
+        "fieldName": "mandQuest",
+        "name": "<p><strong>Upload the mandatory questionnaires (for audit preparation)   </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 20,
+        "fieldName": "additionalAuditQuestionnaires",
+        "name": "<p><strong>Download the Additional questionnaires(if any)</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 76,
+        "fieldName": "addQuest",
+        "name": "<p><strong>Upload the Additional questionnaires(if any)   </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 22,
+        "fieldName": "questionnairesToComplete",
+        "name": "<p><strong>Download the Questionnaires required to complete</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 78,
+        "fieldName": "questTocomplete",
+        "name": "<p><strong>Upload the Questionnaires required to complete  </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    }
+]

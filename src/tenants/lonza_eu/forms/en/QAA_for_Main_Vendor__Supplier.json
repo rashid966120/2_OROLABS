@@ -1,0 +1,175 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "QAA for Main Vendor -Supplier",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": null,
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 4,
+        "fieldName": "agreementType",
+        "name": "<p><strong>Type of Agreement required for full qualification?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "QAA": "QAA",
+            "SCL": "SCL"
+        },
+        "type": "field"
+    },
+    {
+        "id": 25,
+        "fieldName": "qaawarning",
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>No QAA Needed for this Vendor.</em></strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 22,
+        "fieldName": "isQAARequired",
+        "name": "<p>iS QAA Required</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 34,
+        "fieldName": "helpTextPreSCL",
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Due to the short time period until the order must be placed, please sign the attached document as a preliminary simplified quality agreement. As soon as this is signed (wet inc or e-signature), negotiations for the full quality agreement will be launched.</em></strong></p><p><br></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 36,
+        "fieldName": "helpTextFullQAA",
+        "name": "null(1)",
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>The attached agreement must be fully signed at the latest by the date mentioned above. If you cant meet this timeline, please immediately let us know. &nbsp;</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Please return the word file w track changes active after negotiation so we can launch signature process.</em></strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 31,
+        "fieldName": "fullQAAorPreSCL",
+        "name": "<p><strong>Will you directly start with QAA (at least 10 weeks required) or launch SCL preliminary:</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "Full QAA": "Full QAA",
+            "Preliminary SCL": "Preliminary SCL"
+        },
+        "type": "field"
+    },
+    {
+        "id": 16,
+        "fieldName": "negotiationBy",
+        "name": "<p><strong>Negotiation by Site QA or GQCSC?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "Agreement negotiated by Site": "Agreement negotiated by Site",
+            "Agreement negotiated by GQCSC": "Agreement negotiated by GQCSC"
+        },
+        "type": "field"
+    },
+    {
+        "id": 19,
+        "fieldName": "agreementAssignee",
+        "name": "<p><strong>Agreement assignee GQCSC</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "q7__p__strong_Are_there_at_least_",
+        "name": "<p><strong>Estimated timeline until PO must be placed:</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "> 6 months": "> 6 months",
+            "< 3 months": "< 3 months",
+            "3 to 6 months": "3 to 6 months"
+        },
+        "type": "field"
+    },
+    {
+        "id": 28,
+        "fieldName": "latestDateForQualityAgreement",
+        "name": "<p><strong>Latest date by when the Quality Agreement must be fully signed (general about 2 weeks before expected PO date)</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 10,
+        "fieldName": "agreementTemplate",
+        "name": "<p><strong>Please download the pre-filled agreement template(s)</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 38,
+        "fieldName": "agreementTemplateSupplier",
+        "name": "<p><strong>Please upload the pre-filled agreement template(s)   </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 13,
+        "fieldName": "sclTemplate",
+        "name": "<p><strong>Please download the pre-filled SCL template</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 40,
+        "fieldName": "scltemplateSupplier",
+        "name": "<p><strong>Please upload the pre-filled SCL template  </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    }
+]

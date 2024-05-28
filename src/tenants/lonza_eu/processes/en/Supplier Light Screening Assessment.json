@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "name": "Supplier Light Screening Assessment",
+    "type": "processTitle"
+  },
+  {
+    "id": 3,
+    "name": "Email validation",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Domain validation",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Update DUNS number",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "Get D&B score",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Custom Risk Scoring",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "Light Screening Review",
+    "type": null
+  },
+  {
+    "id": 8,
+    "name": "Update Supplier status",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Results of Potential Supplier ESG Screening",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "Financial screening",
+    "type": null
+  }
+]

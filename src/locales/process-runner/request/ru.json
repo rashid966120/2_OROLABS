@@ -1,0 +1,14 @@
+{
+    "--requestedOn--": "Запрошено",
+    "--estimatedCompletion--": "Планируемое завершение",
+    "--completedOn--": "Завершено",
+    "--deniedOn--": "Отказано",
+    "--cancelledOn--": "Отменено",
+    "--cardView--": "Карточки",
+    "--listView--": "Список",
+    "--listIsEmpty--": "Список пуст",
+    "--addRequestsToListOrDeleteList--": "Добавьте запросы в список или удалите его, если он больше не нужен",
+    "--addToList--": "Добавить в список",
+    "--deleteList--": "Удалить список",
+    "--areYouSureYouWantToPermanentlyDeleteThisList--": "Вы уверены, что хотите навсегда удалить этот список?"
+}

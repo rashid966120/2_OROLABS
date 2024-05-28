@@ -1,0 +1,109 @@
+{
+  "--oroAI--": "ORO AI",
+  "--guidingYouToRightChannels--": "İş ihtiyaçlarınız için yardım alın",
+  "--describeYourBusinessNeed--": "İş ihtiyacınızı açıklayın...",
+  "--startNewRequest--": "Yeni bir talep başlatın",
+  "--enrichYourDescription--": "Açıklamanızı tahmini harcama ve tedarikçiler gibi ayrıntılarla (varsa) zenginleştirin.",
+  "--generating--": "Üretiliyor",
+  "--searching--": "Aranıyor",
+  "--capturingResponse--": "Yanıtınızı inceliyorum",
+  "--howCanWeHelp--": "Bugün size nasıl yardımcı olabiliriz?",
+  "--close--": "Kapat",
+  "--attach--":"Ekle",
+  "--comingSoon--":{
+    "--comingSoon--": "Çok Yakında!",
+    "--primaryMessage--": "Size en iyi deneyimi sunmak için şu anda bu talep üzerinde çalışıyoruz.",
+    "--secondaryMessage--":"Kritik bir durum söz konusuysa lütfen uzmanlara ulaşın."
+  },
+  "--tips--": {
+    "--hereAreExamples--": "İşte başlangıç için birkaç örnek",
+    "--tip1--": "Tahmini 20.000 $ bütçe ile Ar-Ge için ilaç numuneleri yapmak üzere 3D Yazıcı satın alın",
+    "--tip2--": "Bir konferans etkinliği için 1000 adet özelleştirilmiş tişört satın alın; bütçe 10.000$",
+    "--tip3--": "Moving Brands ile sonbahar kampanyası için yaratıcı bir çalışma yapmak üzere 125000 $ değerinde PO oluşturun"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "İş ihtiyacınızın sınıflandırılması",
+    "--classifyYouNeedSoWeCanGuide--": "İş ihtiyacınızı sınıflandırın, böylece size daha iyi rehberlik edebilelim"
+  },
+  "--supplier--": {
+    "--showMore--": "Daha Fazla Göster",
+    "--showLess--": "Daha Az Göster",
+    "--supplier--": "Tedarikçi",
+    "--duns--": "DUNS:",
+    "--select--": "Seç",
+    "--skipSupplierSelection--": "Tedarikçi seçimini şimdilik atlayın",
+    "--foundSomeSuppliers--": "Bu talep için kullanabileceğiniz bazı tercih edilen tedarikçiler bulduk",
+    "--recentlyUsedFor--": "Yakın zamanda kullanıldı:",
+    "--productUsedBy--": "{{product}} / {{user}} ({{department}})",
+    "--preferredFor--": "Şunun için tercih edilir:",
+    "--multiple--": "Çoklu",
+    "--enterSupplierName--": "Tedarikçi adını girin",
+    "--weFoundMatches--": "'{{name}}' için bazı eşleşmeler bulduk - Lütfen birini seçin",
+    "--looksLikeNewSupplier--": "Görünüşe göre yeni bir tedarikçiyle çalışıyorsunuz.",
+    "--shareSupplierDetails--": "Lütfen aşağıdaki tedarikçi bilgilerini paylaşın",
+    "--supplierName--": "Tedarikçi Adı",
+    "--enterName--": "İsim girin",
+    "--nameIsRequired--": "İsim gereklidir",
+    "--supplierContact--": "Tedarikçi İletişim Kişisi",
+    "--contractRequired--": "İletişim kişisi gereklidir",
+    "--enterEmail--": "E-posta kimliğini girin",
+    "--continue--": "Devam et",
+    "--searchSupplier--": "Hangi tedarikçi ile çalışmak istiyorsunuz?",
+    "--searchAnotherSupplier--": "Başka bir tedarikçi arayın",
+    "--skipSelection--": "Seçimi atla",
+    "--skipSuggestions--": "Önerileri atla",
+    "--viewRecommendations--": "Önerileri Görüntüle",
+    "--pleaseCompleteDetails--": "Lütfen ayrıntıları doldurun",
+    "--youAreWorkingWith--": "Görünüşe göre <1>yeni bir tedarikçiyle</1> çalışıyorsunuz.",
+    "--recentTransaction--": "Son İşlemler",
+    "--vendorId--": "KİMLİK:",
+    "--wouldYouConsider--": "Bu görev için tercih edilen tedarikçileri kullanmayı düşünmek ister misiniz?",
+    "--usingThemSaveTime--": "Bunları kullanmak size zaman ve paradan tasarruf sağlayacaktır.",
+    "--skippedSupplierSelection--": "- Tedarikçi seçimi atlandı -",
+    "--haveAnotherSupplier--": "Aklınızda başka bir tedarikçi mi var?",
+    "--search--":"Ara"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "Tahmini Harcama",
+    "--pleaseConfirmEstimateSpend--": "Lütfen tahmini harcamayı teyit edin",
+    "--continue--": "Devam et"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "İhtiyacınıza göre bazı öneriler bulduk:",
+    "--getStarted--": "Başlayın"
+  },
+  "--compliance--": {
+    "--continue--": "Devam et",
+    "--ComplianceQuestionnaire--": "Uyum anketi"
+  },
+  "--transactions--": {
+    "--details--": "AYRINTILAR",
+    "--requester--": "TALEP EDEN",
+    "--date--": "TARİH",
+    "--spend--": "HARCAMA"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "İhtiyacınıza göre bazı öneriler bulduk:",
+    "--spendLimit--": "Harcama Limiti:",
+    "--foundMatchingItems--": "Eşleşen Öğeler Bulundu",
+    "--couldNotFindMatchingItems--": "Eşleşen öğe bulunamadı",
+    "--noImageAvailable--": "Resim Mevcut Değil",
+    "--seeMore--": "Daha fazlasını görün",
+    "--inMarketplace--": "{{marketplaceName}} içerisinde",
+    "--notApplicableContinueExploring--": "Uygun değil mi? Keşfetmeye devam edin",
+    "--searchingForMatching--": "Eşleşen öğeleri arama",
+    "--goTo--": "Şuraya git: {{name}}"
+  },
+  "--proposal--":{
+    "--capturedDetails--":"Ekten elde edilen ayrıntılar:",
+    "--title--":"Başlık:",
+    "--description--":"Açıklama:",
+    "--agreementType--":"Anlaşma türü:",
+    "--contact--":"İletişim:",
+    "--region--":"Bölge:",
+    "--paymentTerms--":"Ödeme koşulları:",
+    "--amount--":"Miktar:",
+    "--supplier--":"Tedarikçi:",
+    "--continue--":"Devam et"
+  }
+}

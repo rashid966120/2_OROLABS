@@ -1,0 +1,109 @@
+{
+  "--oroAI--": "ORO AI",
+  "--guidingYouToRightChannels--": "Get guided help for your business need",
+  "--describeYourBusinessNeed--": "Describe your business need...",
+  "--startNewRequest--": "Start a new request",
+  "--enrichYourDescription--": "Enrich your description with details such as estimated spend and suppliers (if any).",
+  "--generating--": "Generating",
+  "--searching--": "Searching",
+  "--capturingResponse--": "Capturing your response",
+  "--howCanWeHelp--": "How can we help you today?",
+  "--close--": "Close",
+  "--attach--":"Attach",
+  "--comingSoon--":{
+    "--comingSoon--": "Coming Soon!",
+    "--primaryMessage--": "We are currently working on this request to give you the best experience.",
+    "--secondaryMessage--":"Please reach out to experts if its critical."
+  },
+  "--tips--": {
+    "--hereAreExamples--": "Here are few examples to get started",
+    "--tip1--": "Buy 3D Printer for making drug samples for R&D with an estimated budget of $20,000",
+    "--tip2--": "Buy 1000 customised t-shirts for a conference event; budget of $10,000",
+    "--tip3--": "Create $125000 PO with Moving Brands to work on a creative work for fall campaign"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "Classifying your business need",
+    "--classifyYouNeedSoWeCanGuide--": "Classify your business need, so we can guide you better"
+  },
+  "--supplier--": {
+    "--showMore--": "Show More",
+    "--showLess--": "Show Less",
+    "--supplier--": "Supplier",
+    "--duns--": "DUNS:",
+    "--select--": "Select",
+    "--skipSupplierSelection--": "Skip supplier selection for now",
+    "--foundSomeSuppliers--": "We found some preferred suppliers you can use for this request",
+    "--recentlyUsedFor--": "Recently used for:",
+    "--productUsedBy--": "{{product}} by {{user}} ({{department}})",
+    "--preferredFor--": "Preferred for:",
+    "--multiple--": "Multiple",
+    "--enterSupplierName--": "Enter supplier name",
+    "--weFoundMatches--": "We found some matches for ‘{{name}}’ - Please select one",
+    "--looksLikeNewSupplier--": "Looks like you are working with a new supplier.",
+    "--shareSupplierDetails--": "Please share the following supplier details",
+    "--supplierName--": "Supplier Name",
+    "--enterName--": "Enter name",
+    "--nameIsRequired--": "Name is required",
+    "--supplierContact--": "Supplier Contact",
+    "--contractRequired--": "Contact is required",
+    "--enterEmail--": "Enter email id",
+    "--continue--": "Continue",
+    "--searchSupplier--": "Which supplier do you wish to work with?",
+    "--searchAnotherSupplier--": "Search another supplier",
+    "--skipSelection--": "Skip selection",
+    "--skipSuggestions--": "Skip suggestions",
+    "--viewRecommendations--": "View Recommendations",
+    "--pleaseCompleteDetails--": "Please complete the details",
+    "--youAreWorkingWith--": "Looks like you are working with a <1>new supplier</1>.",
+    "--recentTransaction--": "Recent Transactions",
+    "--vendorId--": "ID:",
+    "--wouldYouConsider--": "Would you like to consider using preferred suppliers for this engagement?",
+    "--usingThemSaveTime--": "Using them will save you time and money.",
+    "--skippedSupplierSelection--": "- Skipped supplier selection -",
+    "--haveAnotherSupplier--": "Have another supplier in mind?",
+    "--search--":"Search"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "Estimated Spend",
+    "--pleaseConfirmEstimateSpend--": "Please confirm estimated spend",
+    "--continue--": "Continue"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "We found some recommendations based on your need:",
+    "--getStarted--": "Get started"
+  },
+  "--compliance--": {
+    "--continue--": "Continue",
+    "--ComplianceQuestionnaire--": "Compliance questionnaire"
+  },
+  "--transactions--": {
+    "--details--": "DETAILS",
+    "--requester--": "REQUESTER",
+    "--date--": "DATE",
+    "--spend--": "SPEND"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "We found some recommendations based on your need:",
+    "--spendLimit--": "Spend Limit:",
+    "--foundMatchingItems--": "Found matching Items",
+    "--couldNotFindMatchingItems--": "No matching items found",
+    "--noImageAvailable--": "No Image Available",
+    "--seeMore--": "See more",
+    "--inMarketplace--": "in {{marketplaceName}}",
+    "--notApplicableContinueExploring--": "Not applicable? Continue exploring",
+    "--searchingForMatching--": "Searching for matching items",
+    "--goTo--": "Go to {{name}}"
+  },
+  "--proposal--":{
+    "--capturedDetails--":"Captured details from attachment:",
+    "--title--":"Title:",
+    "--description--":"Description:",
+    "--agreementType--":"Agreement type:",
+    "--contact--":"Contact:",
+    "--region--":"Region:",
+    "--paymentTerms--":"Payment terms:",
+    "--amount--":"Amount:",
+    "--supplier--":"Supplier:",
+    "--continue--":"Continue"
+  }
+}

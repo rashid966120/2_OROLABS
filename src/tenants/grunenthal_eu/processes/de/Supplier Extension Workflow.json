@@ -1,0 +1,67 @@
+[
+  {
+    "id": null,
+    "name": "Workflow der Lieferantenverlängerung",
+    "type": "processTitle"
+  },
+  {
+    "id": 37,
+    "name": "Prüfungspunkte laden",
+    "type": null
+  },
+  {
+    "id": 47,
+    "name": "Kontakte laden",
+    "type": null
+  },
+  {
+    "id": 45,
+    "name": "Lieferanten-Kontaktinformationen",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Überprüfung der Beschaffungsstelle",
+    "type": null
+  },
+  {
+    "id": 32,
+    "name": "Prozess nicht standardisierter Zahlungsbedingung_Verlängerung",
+    "type": null
+  },
+  {
+    "id": 21,
+    "name": "Lieferantendokumente abrufen",
+    "type": null
+  },
+  {
+    "id": 42,
+    "name": "Zahlungsdetails",
+    "type": null
+  },
+  {
+    "id": 49,
+    "name": "Kontaktinformationen für Verlängerung",
+    "type": null
+  },
+  {
+    "id": 38,
+    "name": "Überprüfung der Lieferantendaten – Beschaffungsstelle",
+    "type": null
+  },
+  {
+    "id": 50,
+    "name": "Zusammenfassung abrufen",
+    "type": null
+  },
+  {
+    "id": 16,
+    "name": "Überprüfung der Lieferantenstammdaten",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Lieferantenverlängerung",
+    "type": null
+  }
+]

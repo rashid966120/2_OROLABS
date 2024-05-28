@@ -1,0 +1,145 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "SAP Ariba Details form",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Ariba Network Details",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 23,
+        "fieldName": null,
+        "name": "Payment Term and IncoTerm Confirmation",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 10,
+        "fieldName": "aribaNetworkID",
+        "name": "<p>Ariba Network ID(ANID)</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 4,
+        "fieldName": null,
+        "name": null,
+        "description": "\"<p><strong>Lonza prefers to conduct business and document exchange with suppliers through SAP Ariba Network.</strong></p><p><strong>If you already work with SAP Ariba Network, please provide us with the following information to simplify the onboarding process.</strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "isSAPSupplier",
+        "name": "<p>Already working with SAP Ariba network</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 35,
+        "fieldName": "position",
+        "name": "<p><strong>Vendor comments to Payment Term</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 45,
+        "fieldName": "null_1_",
+        "name": "null(1)",
+        "description": "\"<p><strong><em>Below are our IncoTerms. Please provide your comments if needed.</em></strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 16,
+        "fieldName": "accountType",
+        "name": "<p>Type of Account</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "Enterprise": "",
+            "Standard": ""
+        },
+        "type": "field"
+    },
+    {
+        "id": 41,
+        "fieldName": "incoTerm1",
+        "name": "<p>IncoTerm</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 51,
+        "fieldName": "paymentTerm",
+        "name": "<p>Payment Term</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 48,
+        "fieldName": "incoTermComments",
+        "name": "<p><strong>Vendor comments to IncoTerm</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 19,
+        "fieldName": "sapContact",
+        "name": "<p>Contact details of the person responsible for SAP Ariba</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contact",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 26,
+        "fieldName": null,
+        "name": null,
+        "description": "\"<p><strong>Our standard payment terms are 60 days.</strong></p><p><strong>If other terms were agreed, they overrule our standard payment terms.</strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    }
+]

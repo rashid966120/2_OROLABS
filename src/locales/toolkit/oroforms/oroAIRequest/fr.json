@@ -1,0 +1,109 @@
+{
+  "--oroAI--": "IA d’ORO",
+  "--guidingYouToRightChannels--": "Obtenez une aide guidée pour vos besoins opérationnels",
+  "--describeYourBusinessNeed--": "Décrivez le besoin votre besoin opérationnel...",
+  "--startNewRequest--": "Commencer une nouvelle demande",
+  "--enrichYourDescription--": "Enrichissez votre description avec des détails tels que les dépenses estimées et les fournisseurs (le cas échéant).",
+  "--generating--": "Génération...",
+  "--searching--": "Recherche",
+  "--capturingResponse--": "Enregistrement de votre réponse...",
+  "--howCanWeHelp--": "Comment pouvons-nous vous aider aujourd'hui ?",
+  "--close--": "Fermer",
+  "--attach--":"Mettre en pièce jointe",
+  "--comingSoon--":{
+    "--comingSoon--": "Bientôt disponible !",
+    "--primaryMessage--": "Nous traitons actuellement cette demande afin de vous offrir la meilleure expérience possible.",
+    "--secondaryMessage--":"N'hésitez pas à faire appel à des experts si la situation est critique."
+  },
+  "--tips--": {
+    "--hereAreExamples--": "Voici quelques exemples pour commencer",
+    "--tip1--": "Acheter une imprimante 3D pour fabriquer des échantillons de médicaments pour la R&D avec un budget estimé à 20 000 $",
+    "--tip2--": "Acheter 1000 t-shirts personnalisés pour une conférence ; avec un budget de 10 000 $",
+    "--tip3--": "Créer un PO de 125000 $ avec Moving Brands pour travailler sur un travail créatif pour la campagne d'automne"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "Classification de votre besoin opérationnel",
+    "--classifyYouNeedSoWeCanGuide--": "Classifiez votre besoin opérationnel pour nous permettre de mieux vous guider"
+  },
+  "--supplier--": {
+    "--showMore--": "Montrer plus",
+    "--showLess--": "Montrer moins",
+    "--supplier--": "Fournisseur",
+    "--duns--": "Numéro DUNS :",
+    "--select--": "Sélectionner",
+    "--skipSupplierSelection--": "Ignorer la sélection des fournisseurs pour l'instant",
+    "--foundSomeSuppliers--": "Nous avons trouvé quelques fournisseurs privilégiés que vous pouvez utiliser pour cette demande",
+    "--recentlyUsedFor--": "Récemment utilisé pour :",
+    "--productUsedBy--": "{{product}} par {{user}} ({{department}})",
+    "--preferredFor--": "Privilégié pour :",
+    "--multiple--": "Multiple",
+    "--enterSupplierName--": "Saisir le nom du fournisseur",
+    "--weFoundMatches--": "Nous avons trouvé des correspondances pour « {{name}} » - Veuillez en sélectionner une",
+    "--looksLikeNewSupplier--": "Il semble que vous travailliez avec un nouveau fournisseur.",
+    "--shareSupplierDetails--": "Veuillez communiquer les informations suivantes sur le fournisseur",
+    "--supplierName--": "Nom du fournisseur",
+    "--enterName--": "Saisir le nom",
+    "--nameIsRequired--": "Le nom est obligatoire",
+    "--supplierContact--": "Contact fournisseur",
+    "--contractRequired--": "Un contact est obligatoire",
+    "--enterEmail--": "Saisir l'id de l’adresse électronique",
+    "--continue--": "Continuer",
+    "--searchSupplier--": "Avec quel fournisseur souhaitez-vous travailler ?",
+    "--searchAnotherSupplier--": "Rechercher un autre fournisseur",
+    "--skipSelection--": "Passer la sélection",
+    "--skipSuggestions--": "Passer les suggestions",
+    "--viewRecommendations--": "Voir les recommandations",
+    "--pleaseCompleteDetails--": "Veuillez renseigner les détails",
+    "--youAreWorkingWith--": "Il semble que vous travailliez avec un <1>nouveau fournisseur</1>.",
+    "--recentTransaction--": "Transactions récentes",
+    "--vendorId--": "ID :",
+    "--wouldYouConsider--": "Souhaitez-vous faire appel à des fournisseurs privilégiés pour cette mission ?",
+    "--usingThemSaveTime--": "Vous pourriez gagner du temps et de l'argent en faisant appel à eux.",
+    "--skippedSupplierSelection--": "- Sélection des fournisseurs ignorée -",
+    "--haveAnotherSupplier--": "Vous pensez à un autre fournisseur ?",
+    "--search--":"Rechercher"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "Estimation des dépenses",
+    "--pleaseConfirmEstimateSpend--": "Veuillez confirmer l'estimation des dépenses",
+    "--continue--": "Continuer"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "Nous avons trouvé quelques recommandations en fonction de vos besoins :",
+    "--getStarted--": "Commencer"
+  },
+  "--compliance--": {
+    "--continue--": "Continuer",
+    "--ComplianceQuestionnaire--": "Questionnaire de conformité"
+  },
+  "--transactions--": {
+    "--details--": "DÉTAILS",
+    "--requester--": "DEMANDEUR",
+    "--date--": "DATE",
+    "--spend--": "DÉPENSES"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "Nous avons trouvé quelques recommandations en fonction de vos besoins :",
+    "--spendLimit--": "Limite de dépenses :",
+    "--foundMatchingItems--": "Éléments correspondants trouvés",
+    "--couldNotFindMatchingItems--": "Aucun élément correspondant n'a été trouvé",
+    "--noImageAvailable--": "Aucune image disponible",
+    "--seeMore--": "Voir plus d'informations",
+    "--inMarketplace--": "dans {{marketplaceName}}",
+    "--notApplicableContinueExploring--": "Non pertinent ? Poursuivre l'exploration",
+    "--searchingForMatching--": "Recherche de résultats correspondants",
+    "--goTo--": "Aller à {{name}}"
+  },
+  "--proposal--":{
+    "--capturedDetails--":"Enregistrement des informations de la pièce jointe :",
+    "--title--":"Titre :",
+    "--description--":"Description :",
+    "--agreementType--":"Type de contrat :",
+    "--contact--":"Contact :",
+    "--region--":"Région :",
+    "--paymentTerms--":"Conditions de paiement :",
+    "--amount--":"Montant :",
+    "--supplier--":"Fournisseur :",
+    "--continue--":"Continuer"
+  }
+}

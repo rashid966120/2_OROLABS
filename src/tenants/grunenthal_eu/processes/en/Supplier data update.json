@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "name": "Supplier data update",
+    "type": "processTitle"
+  },
+  {
+    "id": 2,
+    "name": "Supplier Questionnaires ",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Payment details",
+    "type": null
+  },
+  {
+    "id": 21,
+    "name": "Company information",
+    "type": null
+  },
+  {
+    "id": 9,
+    "name": "Procurement Center Review",
+    "type": null
+  },
+  {
+    "id": 17,
+    "name": "Non-standard payment term approval (Supplier Update process)",
+    "type": null
+  },
+  {
+    "id": 15,
+    "name": "Head of Procurement Area",
+    "type": null
+  },
+  {
+    "id": 16,
+    "name": "Head of Invoicing Area",
+    "type": null
+  },
+  {
+    "id": 14,
+    "name": "Non-standard Payment term process_Extension",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Vendor master data review",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "Update vendor record in Syniti",
+    "type": null
+  },
+  {
+    "id": 24,
+    "name": "Vendor Update in SAP confirmation",
+    "type": null
+  },
+  {
+    "id": 22,
+    "name": "To Requester",
+    "type": null
+  },
+  {
+    "id": 23,
+    "name": "To Procurement Center",
+    "type": null
+  }
+]

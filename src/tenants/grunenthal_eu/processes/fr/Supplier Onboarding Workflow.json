@@ -1,0 +1,77 @@
+[
+  {
+    "id": null,
+    "name": "Processus d'intégration du fournisseur",
+    "type": "processTitle"
+  },
+  {
+    "id": 109,
+    "name": "Examen par la centrale d'achat",
+    "type": null
+  },
+  {
+    "id": 136,
+    "name": "Notifier le demandeur pour qu'il effectue les actions nécessaires",
+    "type": null
+  },
+  {
+    "id": 144,
+    "name": "Informer l'équipe d'approvisionnement externe mondial du processus en matière de GxP",
+    "type": null
+  },
+  {
+    "id": 122,
+    "name": "Questionnaire pour les fournisseurs, vérifications de conformité et approbation des conditions de paiement (non standard)",
+    "type": null
+  },
+  {
+    "id": 120,
+    "name": "Diligence raisonnable à l’égard des tiers",
+    "type": null
+  },
+  {
+    "id": 129,
+    "name": "Approbation des conditions de paiement non standard",
+    "type": null
+  },
+  {
+    "id": 140,
+    "name": "Résultats de l'évaluation informatique",
+    "type": null
+  },
+  {
+    "id": 127,
+    "name": "Confirmation du demandeur pour d'autres processus d'intégration",
+    "type": null
+  },
+  {
+    "id": 162,
+    "name": "L'intégration des fournisseurs est suspendue en raison de l'absence d'approbation des résultats de l'évaluation de la sécurité des informations",
+    "type": null
+  },
+  {
+    "id": 163,
+    "name": "Résumé de la collecte",
+    "type": null
+  },
+  {
+    "id": 164,
+    "name": null,
+    "type": null
+  },
+  {
+    "id": 155,
+    "name": "Examen des données de base des fournisseurs",
+    "type": null
+  },
+  {
+    "id": 156,
+    "name": "Confirmation de l'évaluation informatique",
+    "type": null
+  },
+  {
+    "id": 56,
+    "name": "Création du fournisseur ",
+    "type": null
+  }
+]

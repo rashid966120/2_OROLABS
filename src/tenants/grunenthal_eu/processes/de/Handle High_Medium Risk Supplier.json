@@ -1,0 +1,22 @@
+[
+  {
+    "id": null,
+    "name": "Umgang mit Lieferanten mit hohem_mittlerem Risiko",
+    "type": "processTitle"
+  },
+  {
+    "id": 9,
+    "name": "Genehmigung des Vorgesetzten",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Lokale Compliance-Genehmigung",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Globale Compliance-Genehmigung",
+    "type": null
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "name": "Mise à jour des données fournisseurs",
+    "type": "processTitle"
+  },
+  {
+    "id": 2,
+    "name": "Questionnaire pour les fournisseurs ",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Modalités de paiement",
+    "type": null
+  },
+  {
+    "id": 21,
+    "name": "Informations sur l'entreprise",
+    "type": null
+  },
+  {
+    "id": 9,
+    "name": "Examen par la centrale d'achat",
+    "type": null
+  },
+  {
+    "id": 17,
+    "name": "Approbation des conditions de paiement non standard (processus de mise à jour du fournisseur)",
+    "type": null
+  },
+  {
+    "id": 15,
+    "name": "Directeur du service achats",
+    "type": null
+  },
+  {
+    "id": 16,
+    "name": "Directeur du service facturation",
+    "type": null
+  },
+  {
+    "id": 14,
+    "name": "Processus de conditions de paiement non standard_Prolongation",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Examen des données de base des fournisseurs",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "Mise à jour de la fiche fournisseur dans Syniti",
+    "type": null
+  },
+  {
+    "id": 24,
+    "name": "Mise à jour du fournisseur dans la confirmation SAP",
+    "type": null
+  },
+  {
+    "id": 22,
+    "name": "Au demandeur",
+    "type": null
+  },
+  {
+    "id": 23,
+    "name": "À la centrale d'achat",
+    "type": null
+  }
+]

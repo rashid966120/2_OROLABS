@@ -1,0 +1,31 @@
+[
+  {
+    "id": "Supplier Light Screening Assessment",
+    "requestName": "Supplier Light Screening",
+    "shortDescription": "Supplier Light Screening Assessment",
+    "stepTitles": {
+      "Matching Supplier(s)": "Matching Supplier(s)",
+      "Business Justification": "Business Justification",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "New Supplier Onboarding process",
+    "requestName": "Supplier Onboarding Request",
+    "shortDescription": "New Supplier Onboarding Request",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Business Need": "Business Need",
+      "Requester": "Requester",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Accounting Information": "Accounting Information",
+      "Supplier Qualification Data": "Supplier Qualification Data"
+    },
+    "engagementAttributes": null
+  }
+]

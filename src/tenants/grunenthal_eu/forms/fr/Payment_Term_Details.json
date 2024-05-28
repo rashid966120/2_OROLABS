@@ -1,0 +1,94 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Détails des conditions de paiement",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Conditions de paiement",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(62, 68, 86);\\\"><u>Remarque</u> : La mention « Autre » (conditions de paiement non standard) doit être approuvée par le directeur du service achats/</strong><strong style=\\\"color: rgb(34, 34, 34);\\\">le responsable de la comptabilité fournisseurs</strong><strong style=\\\"color: rgb(62, 68, 86);\\\">.  </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "nonStandardPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Saisir les conditions de paiement applicables</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "nonStandardPaymentTermReason",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Quelle est la raison du choix de conditions de paiement non standard ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "nonStandardPTYes",
+    "name": "<p>Oui par défaut pour NonStandardPaymentTerm</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "nonStandardPTNo",
+    "name": "<p>Non par défaut pour NonStandardPaymentTerm</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "isStandardPaymentTerm",
+    "name": "<p>Je souhaite utiliser des conditions de paiement standard</p><p><strong style=\"color: rgb(62, 68, 86);\"><u>Remarque</u> : La mention « Autre » (conditions de paiement non standard) doit être approuvée par le directeur du service achats/</strong><strong style=\"color: rgb(34, 34, 34);\">le responsable de la comptabilité fournisseurs</strong><strong style=\"color: rgb(62, 68, 86);\">. </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Other": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "requesterPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Sélectionnez les conditions de paiement applicables au </span>fournisseur</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

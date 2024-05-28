@@ -1,0 +1,109 @@
+{
+  "--oroAI--": "ORO KI",
+  "--guidingYouToRightChannels--": "Auf Ihren Geschäftsvorgang bezogene Hilfe anfordern",
+  "--describeYourBusinessNeed--": "Beschreiben Sie Ihren Geschäftsbedarf...",
+  "--startNewRequest--": "Eine neue Anfrage starten",
+  "--enrichYourDescription--": "Ergänzen Sie Ihre Beschreibung mit Details wie geschätzte Ausgaben und Lieferanten (falls vorhanden)",
+  "--generating--": "Erzeugen",
+  "--searching--": "Suche läuft ...",
+  "--capturingResponse--": "Erfassen Ihrer Antwort",
+  "--howCanWeHelp--": "Wie können wir Ihnen heute helfen?",
+  "--close--": "Schließen",
+  "--attach--":"Anhängen",
+  "--comingSoon--":{
+    "--comingSoon--": "Demnächst verfügbar!",
+    "--primaryMessage--": "Wir arbeiten derzeit an dieser Anfrage, um Ihnen das beste Erlebnis zu bieten.",
+    "--secondaryMessage--":"Bitte wenden Sie sich mit kritischen Anliegen an die Experten."
+  },
+  "--tips--": {
+    "--hereAreExamples--": "Hier ein paar Beispiele für den Anfang",
+    "--tip1--": "Kauf eines 3D-Druckers zur Herstellung von Arzneimittelproben für Forschung und Entwicklung mit einem geschätzten Budget von 20.000 $",
+    "--tip2--": "1000 maßgeschneiderte T-Shirts für eine Konferenz kaufen; Budget: 10.000 $",
+    "--tip3--": "Erstellung einer PO über 125.000 $ an Moving Brands für die Arbeit an einer kreativen Herbstkampagne"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "Klassifizierung Ihres Geschäftsbedarfs",
+    "--classifyYouNeedSoWeCanGuide--": "Klassifizieren Sie Ihren Geschäftsbedarf, damit wir Sie besser beraten können"
+  },
+  "--supplier--": {
+    "--showMore--": "Mehr anzeigen",
+    "--showLess--": "Weniger anzeigen",
+    "--supplier--": "Lieferant",
+    "--duns--": "DUNS:",
+    "--select--": "Auswählen",
+    "--skipSupplierSelection--": "Lieferantenauswahl vorerst überspringen",
+    "--foundSomeSuppliers--": "Wir haben einige bevorzugte Lieferanten gefunden, die Sie für diese Anfrage nutzen können",
+    "--recentlyUsedFor--": "Kürzlich verwendet für:",
+    "--productUsedBy--": "{{product}} von {{user}} ({{department}})",
+    "--preferredFor--": "Bevorzugt für:",
+    "--multiple--": "Mehrere",
+    "--enterSupplierName--": "Name des Lieferanten eingeben",
+    "--weFoundMatches--": "Wir haben einige Treffer für „{{name}}“ gefunden – Bitte wählen Sie einen aus",
+    "--looksLikeNewSupplier--": "Es sieht so aus, als würden Sie mit einem neuen Lieferanten zusammenarbeiten.",
+    "--shareSupplierDetails--": "Bitte teilen Sie uns die folgenden Angaben zum Anbieter mit",
+    "--supplierName--": "Name des Lieferanten",
+    "--enterName--": "Namen eingeben",
+    "--nameIsRequired--": "Name ist erforderlich",
+    "--supplierContact--": "Lieferantenkontakt",
+    "--contractRequired--": "Kontakt ist erforderlich",
+    "--enterEmail--": "E-Mail-ID eingeben",
+    "--continue--": "Weiter",
+    "--searchSupplier--": "Mit welchem Lieferanten möchten Sie zusammenarbeiten?",
+    "--searchAnotherSupplier--": "Einen anderen Lieferanten suchen",
+    "--skipSelection--": "Auswahl überspringen",
+    "--skipSuggestions--": "Vorschläge überspringen",
+    "--viewRecommendations--": "Empfehlungen anzeigen",
+    "--pleaseCompleteDetails--": "Bitte vervollständigen Sie die Angaben",
+    "--youAreWorkingWith--": "Es sieht so aus, als würden Sie mit einem <1>neuen Lieferanten</1> zusammenarbeiten.",
+    "--recentTransaction--": "Letzte Transaktionen",
+    "--vendorId--": "ID:",
+    "--wouldYouConsider--": "Möchten Sie für diesen Auftrag bevorzugte Lieferanten in Betracht ziehen?",
+    "--usingThemSaveTime--": "Mit ihnen sparen Sie Zeit und Geld.",
+    "--skippedSupplierSelection--": "- Lieferantenauswahl übersprungen -",
+    "--haveAnotherSupplier--": "Haben Sie einen anderen Lieferanten im Sinn?",
+    "--search--":"Suche"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "Geschätzte Ausgaben",
+    "--pleaseConfirmEstimateSpend--": "Bitte bestätigen Sie die geschätzten Ausgaben",
+    "--continue--": "Weiter"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "Wir haben einige Empfehlungen für Ihren Bedarf gefunden:",
+    "--getStarted--": "Beginnen Sie"
+  },
+  "--compliance--": {
+    "--continue--": "Weiter",
+    "--ComplianceQuestionnaire--": "Compliance-Fragebogen"
+  },
+  "--transactions--": {
+    "--details--": "EINZELHEITEN",
+    "--requester--": "ANTRAGSTELLER",
+    "--date--": "DATUM",
+    "--spend--": "AUSGABEN"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "Wir haben einige Empfehlungen für Ihren Bedarf gefunden:",
+    "--spendLimit--": "Ausgabenlimit:",
+    "--foundMatchingItems--": "Passende Artikel gefunden",
+    "--couldNotFindMatchingItems--": "Keine passenden Artikel gefunden",
+    "--noImageAvailable--": "Kein Bild verfügbar",
+    "--seeMore--": "Mehr anzeigen",
+    "--inMarketplace--": "für {{marketplaceName}}",
+    "--notApplicableContinueExploring--": "Nicht zutreffend? Weiter erkunden",
+    "--searchingForMatching--": "Suche nach passenden Artikeln",
+    "--goTo--": "Gehe zu {{name}}"
+  },
+  "--proposal--":{
+    "--capturedDetails--":"Erfasste Details aus der Anlage:",
+    "--title--":"Titel:",
+    "--description--":"Beschreibung:",
+    "--agreementType--":"Art der Vereinbarung:",
+    "--contact--":"Kontakt:",
+    "--region--":"Region:",
+    "--paymentTerms--":"Zahlungsbedingungen:",
+    "--amount--":"Betrag:",
+    "--supplier--":"Lieferant:",
+    "--continue--":"Weiter"
+  }
+}

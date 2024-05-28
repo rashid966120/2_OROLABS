@@ -1,0 +1,102 @@
+[
+  {
+    "id": null,
+    "name": "TPDD Renewal",
+    "type": "processTitle"
+  },
+  {
+    "id": 10,
+    "name": "Load existing vendor",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Sourcing Manager Review",
+    "type": null
+  },
+  {
+    "id": 32,
+    "name": "Procurement Center Review",
+    "type": null
+  },
+  {
+    "id": 94,
+    "name": "Load Contacts",
+    "type": null
+  },
+  {
+    "id": 73,
+    "name": "Find Applicable TPDD",
+    "type": null
+  },
+  {
+    "id": 57,
+    "name": "Collect supplier documents",
+    "type": null
+  },
+  {
+    "id": 100,
+    "name": "Company information",
+    "type": null
+  },
+  {
+    "id": 122,
+    "name": "Payment details",
+    "type": null
+  },
+  {
+    "id": 124,
+    "name": "Contact Details",
+    "type": null
+  },
+  {
+    "id": 126,
+    "name": "Shareholder information",
+    "type": null
+  },
+  {
+    "id": 128,
+    "name": "Third Party Due Diligence Questionnaire",
+    "type": null
+  },
+  {
+    "id": 130,
+    "name": "Declaration",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "Due Diligence and Risk Scoring",
+    "type": null
+  },
+  {
+    "id": 55,
+    "name": "Handle High_Medium Risk Supplier",
+    "type": null
+  },
+  {
+    "id": 78,
+    "name": "Block Vendor",
+    "type": null
+  },
+  {
+    "id": 111,
+    "name": "Deny request due to risk",
+    "type": null
+  },
+  {
+    "id": 120,
+    "name": "Collect summary",
+    "type": null
+  },
+  {
+    "id": 76,
+    "name": "Vendor master data review",
+    "type": null
+  },
+  {
+    "id": 83,
+    "name": "Assessment Update",
+    "type": null
+  }
+]

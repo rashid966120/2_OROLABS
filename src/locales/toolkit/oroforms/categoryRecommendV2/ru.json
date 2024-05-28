@@ -1,0 +1,14 @@
+{
+  "--category--": "Категория",
+  "--select--": "Выбрать",
+  "--failedToGenerateRecommendations--": "Не удалось создать рекомендации",
+  "--viewAllOptions--": "Посмотреть все варианты",
+  "--recommendedOptions--": "Рекомендуемые варианты",
+  "--pleaseSelectBestCategory--": "Выберите категорию, наиболее подходящую для вашего запроса",
+  "--requiredField--": "Это обязательное поле",
+  "--notTheResultYouLooking--":"Не нашли нужного результата?",
+  "--hideRecommendations--":"Скрыть рекомендации",
+  "--viewAllRecommendations--":"Посмотреть все рекомендации",
+  "--readMore--": "больше",
+  "--readLess--": "меньше"
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "id": null,
+    "name": "Supplier Onboarding Workflow",
+    "type": "processTitle"
+  },
+  {
+    "id": 109,
+    "name": "Procurement Center Review",
+    "type": null
+  },
+  {
+    "id": 136,
+    "name": "Notify requester to complete applicable steps",
+    "type": null
+  },
+  {
+    "id": 144,
+    "name": "Notify Global External supply team on GxP process",
+    "type": null
+  },
+  {
+    "id": 122,
+    "name": "Supplier questionnaire, compliance checks and Payment terms (Non-standard) approval",
+    "type": null
+  },
+  {
+    "id": 120,
+    "name": "Third party due diligence",
+    "type": null
+  },
+  {
+    "id": 129,
+    "name": "Non-standard payment term approval",
+    "type": null
+  },
+  {
+    "id": 140,
+    "name": "IT Assessment Results",
+    "type": null
+  },
+  {
+    "id": 127,
+    "name": "Requester confirmation for other onboarding processes",
+    "type": null
+  },
+  {
+    "id": 162,
+    "name": "Supplier onboarding on hold as information security assessment result not approved",
+    "type": null
+  },
+  {
+    "id": 163,
+    "name": "Collect summary",
+    "type": null
+  },
+  {
+    "id": 164,
+    "name": null,
+    "type": null
+  },
+  {
+    "id": 155,
+    "name": "Vendor master data review",
+    "type": null
+  },
+  {
+    "id": 156,
+    "name": "IT Assessment Confirmation",
+    "type": null
+  },
+  {
+    "id": 56,
+    "name": "Vendor Creation ",
+    "type": null
+  }
+]

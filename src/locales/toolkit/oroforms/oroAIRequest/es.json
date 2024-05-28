@@ -1,0 +1,109 @@
+{
+  "--oroAI--": "IA ORO",
+  "--guidingYouToRightChannels--": "Obtenga ayuda guiada para sus necesidades empresariales",
+  "--describeYourBusinessNeed--": "Describa las necesidades de su empresa...",
+  "--startNewRequest--": "Iniciar una nueva solicitud",
+  "--enrichYourDescription--": "Amplíe su descripción con detalles como el gasto estimado y los proveedores (si los hay).",
+  "--generating--": "Generando",
+  "--searching--": "Buscando",
+  "--capturingResponse--": "Registrando su respuesta",
+  "--howCanWeHelp--": "¿Cómo podemos ayudarle hoy?",
+  "--close--": "Cerrar",
+  "--attach--":"Adjuntar",
+  "--comingSoon--":{
+    "--comingSoon--": "Próximamente",
+    "--primaryMessage--": "Actualmente estamos trabajando en esta solicitud para ofrecerte la mejor experiencia.",
+    "--secondaryMessage--":"Por favor, póngase en contacto con los expertos si es crítico."
+  },
+  "--tips--": {
+    "--hereAreExamples--": "He aquí algunos ejemplos para empezar",
+    "--tip1--": "Comprar impresora 3D para fabricar muestras de medicamentos para I+D con un presupuesto estimado de 20 000 USD",
+    "--tip2--": "Comprar 1000 camisetas personalizadas para un acto de una conferencia; presupuesto de 10 000 USD",
+    "--tip3--": "Crear una orden de compra de 125 000 USD con Moving Brands para trabajar en un proyecto creativo para la campaña de otoño"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "Clasificar las necesidades de su empresa",
+    "--classifyYouNeedSoWeCanGuide--": "Clasifique las necesidades de su empresa para que podamos orientarle mejor"
+  },
+  "--supplier--": {
+    "--showMore--": "Ver más",
+    "--showLess--": "Ver menos",
+    "--supplier--": "Proveedor",
+    "--duns--": "Número DUNS:",
+    "--select--": "Seleccionar",
+    "--skipSupplierSelection--": "Omitir por ahora la selección de proveedores",
+    "--foundSomeSuppliers--": "Hemos encontrado algunos proveedores preferentes que puede utilizar para esta solicitud",
+    "--recentlyUsedFor--": "Utilizado recientemente para:",
+    "--productUsedBy--": "{{product}} de {{user}} ({{department}})",
+    "--preferredFor--": "Preferido para:",
+    "--multiple--": "Múltiples",
+    "--enterSupplierName--": "Introduzca el nombre del proveedor",
+    "--weFoundMatches--": "Hemos encontrado coincidencias para '{{name}}' - Por favor, seleccione una",
+    "--looksLikeNewSupplier--": "Parece que está trabajando con un nuevo proveedor.",
+    "--shareSupplierDetails--": "Comparta los siguientes datos del proveedor",
+    "--supplierName--": "Nombre del proveedor",
+    "--enterName--": "Introduzca el nombre",
+    "--nameIsRequired--": "Se requiere el nombre",
+    "--supplierContact--": "Contactos de proveedores",
+    "--contractRequired--": "El contacto es obligatorio",
+    "--enterEmail--": "Introduzca ID de correo electrónico",
+    "--continue--": "Continuar",
+    "--searchSupplier--": "¿Con qué proveedor desea trabajar?",
+    "--searchAnotherSupplier--": "Buscar otro proveedor",
+    "--skipSelection--": "Saltar selección",
+    "--skipSuggestions--": "Saltar sugerencias",
+    "--viewRecommendations--": "Ver recomendaciones",
+    "--pleaseCompleteDetails--": "Por favor, complete los datos",
+    "--youAreWorkingWith--": "Parece que está trabajando con un <1>nuevo proveedor</1>.",
+    "--recentTransaction--": "Transacciones recientes",
+    "--vendorId--": "ID:",
+    "--wouldYouConsider--": "¿Le gustaría considerar el uso de proveedores preferentes para este compromiso?",
+    "--usingThemSaveTime--": "Utilizarlos le ahorrará tiempo y dinero.",
+    "--skippedSupplierSelection--": "- Omisión de la selección de proveedores -",
+    "--haveAnotherSupplier--": "¿Tiene otro proveedor en mente?",
+    "--search--":"Buscar"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "Gasto estimado",
+    "--pleaseConfirmEstimateSpend--": "Confirme el gasto estimado",
+    "--continue--": "Continuar"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "Encontramos algunas recomendaciones basadas en su necesidad:",
+    "--getStarted--": "Empezar"
+  },
+  "--compliance--": {
+    "--continue--": "Continuar",
+    "--ComplianceQuestionnaire--": "Cuestionario de cumplimiento"
+  },
+  "--transactions--": {
+    "--details--": "DETALLES",
+    "--requester--": "SOLICITANTE",
+    "--date--": "FECHA",
+    "--spend--": "GASTO"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "Encontramos algunas recomendaciones basadas en su necesidad:",
+    "--spendLimit--": "Límite de gasto:",
+    "--foundMatchingItems--": "Artículos coincidentes encontrados",
+    "--couldNotFindMatchingItems--": "No se han encontrado artículos coincidentes",
+    "--noImageAvailable--": "No hay imagen disponible",
+    "--seeMore--": "Más información",
+    "--inMarketplace--": "en {{marketplaceName}}",
+    "--notApplicableContinueExploring--": "¿No aplicable? Seguir explorando",
+    "--searchingForMatching--": "Búsqueda de artículos coincidentes",
+    "--goTo--": "Ir a {{name}}"
+  },
+  "--proposal--":{
+    "--capturedDetails--":"Detalles capturados del archivo adjunto:",
+    "--title--":"Título:",
+    "--description--":"Descripción:",
+    "--agreementType--":"Tipo de acuerdo:",
+    "--contact--":"Contacto:",
+    "--region--":"Región:",
+    "--paymentTerms--":"Condiciones de pago:",
+    "--amount--":"Importe:",
+    "--supplier--":"Proveedor:",
+    "--continue--":"Continuar"
+  }
+}

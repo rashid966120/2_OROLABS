@@ -1,0 +1,22 @@
+[
+  {
+    "id": null,
+    "name": "Handle High_Medium Risk Supplier",
+    "type": "processTitle"
+  },
+  {
+    "id": 9,
+    "name": "Line Manager Approval",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Local Compliance Approval",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Global Compliance Approval",
+    "type": null
+  }
+]

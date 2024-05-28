@@ -1,0 +1,132 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Supplier Quality Commitments",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Please answer the Quality Questionnaire for Qualification Process",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 13,
+        "fieldName": "isWillingForQAgreement",
+        "name": "<p><strong>Are you willing to establish a quality agreement if needed per Lonza processes?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 9,
+        "fieldName": "isWillingForAudits",
+        "name": "<p><strong>Are you willing to allow audits if needed per Lonza processes?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "qualityQuestionnaireContact",
+        "name": "<p><strong>Contact For QualityCompliance Questionnaire</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contact",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 15,
+        "fieldName": "qualityAgreementContact",
+        "name": "<p><strong>Contact For Quality Agreement</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contact",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 18,
+        "fieldName": "complianceComments",
+        "name": "<p><strong>Comments (Optional) </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 25,
+        "fieldName": "willingForChangeNotifications",
+        "name": "<p><strong>Are you willing to provide change notifications to Lonza for products / services sold to Lonza?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 27,
+        "fieldName": "changeNotificationComments",
+        "name": "<p><strong>Comments (Optional)    </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 22,
+        "fieldName": "q22__p__strong_Comments__Optional_",
+        "name": "<p><strong>Comments (Optional)   </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 20,
+        "fieldName": "auditComments",
+        "name": "<p><strong>Comments (Optional)  </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 4,
+        "fieldName": "q4_isWillingToCompleteQuestionnai",
+        "name": "<p><strong>Are you willing to complete compliance questionnaires if needed per Lonza processes?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 11,
+        "fieldName": "auditContacts",
+        "name": "<p><strong>Contact For Compliance Audits</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contact",
+        "choices": null,
+        "type": "field"
+    }
+]

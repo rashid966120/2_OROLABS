@@ -1,0 +1,14 @@
+{
+  "--category--": "カテゴリー",
+  "--select--": "選択",
+  "--failedToGenerateRecommendations--": "推薦文の作成に失敗しました",
+  "--viewAllOptions--": "すべてのオプションを見る",
+  "--recommendedOptions--": "推奨オプション",
+  "--pleaseSelectBestCategory--": "ご希望のカテゴリーをお選びください",
+  "--requiredField--": "これは必須フィールドです",
+  "--notTheResultYouLooking--":"お探しの結果ではありませんか？",
+  "--hideRecommendations--":"推奨を隠す",
+  "--viewAllRecommendations--":"すべての推奨を見る",
+  "--readMore--": "続きを読む",
+  "--readLess--": "続きを読む"
+}

@@ -1,0 +1,14 @@
+{
+    "--requestedOn--": "Richiesto il",
+    "--estimatedCompletion--": "Completamento previsto",
+    "--completedOn--": "Completato il",
+    "--deniedOn--": "Rifiutato il",
+    "--cancelledOn--": "Annullato il",
+    "--cardView--": "Vista scheda",
+    "--listView--": "Vista elenco",
+    "--listIsEmpty--": "Questo elenco è vuoto",
+    "--addRequestsToListOrDeleteList--": "Aggiungi richieste all'elenco/cancella l'elenco se non più utilizzato",
+    "--addToList--": "Aggiungi all'elenco",
+    "--deleteList--": "Cancella l'elenco",
+    "--areYouSureYouWantToPermanentlyDeleteThisList--": "Sei sicuro di voler cancellare definitivamente questo elenco?"
+}

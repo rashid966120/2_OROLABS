@@ -1,0 +1,202 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Détails du fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Autres détails",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": "Détails des conditions de paiement",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": null,
+    "name": "Coordonnées bancaires",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 52,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(62, 68, 86);\\\"><u>Remarque</u> : La mention « Autre » (conditions de paiement non standard) doit être approuvée par le directeur du service achats/</strong><strong style=\\\"color: rgb(34, 34, 34);\\\">le responsable de la comptabilité clients</strong><strong style=\\\"color: rgb(62, 68, 86);\\\">. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "primaryCategory",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Catégorie du service offert par le fournisseur (pré-rempli)</span></p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(68, 68, 68);\">Catégorie dont les dépenses annuelles auprès du fournisseur devraient être les plus élevées</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"background-color: rgb(255, 255, 0);\\\">Remarque :</strong><strong> </strong>Le fournisseur recevra les formulaires de mise à jour de ses coordonnées bancaires</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 81,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"background-color: rgb(255, 255, 102);\\\">Remarque :</strong> Vous aurez la possibilité de revoir/mettre à jour les informations après avoir soumis le formulaire</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 78,
+    "fieldName": "q78__p_Would_you_like_to_review_up",
+    "name": "<p>Souhaitez-vous revoir/mettre à jour les coordonnées du fournisseur ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 67,
+    "fieldName": "tpddExpired",
+    "name": "<p>Diligence raisonnable ç l’égard des tiers expirée</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "isBankDetailsFromRequestor",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Les coordonnées bancaires du fournisseur doivent-elles être mises à jour ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 46,
+    "fieldName": "paymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Conditions de paiement existantes</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 86,
+    "fieldName": "isStandardPaymentTerm",
+    "name": "<p>Je souhaite utiliser des conditions de paiement standard</p><p><u>Remarque</u> : La mention « Autre » (conditions de paiement non standard) doit être approuvée par le directeur du service achats/<span style=\"color: rgb(34, 34, 34);\">le responsable de la comptabilité clients</span>.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "nonStandardPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Saisir les conditions de paiement applicables</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "nonStandardPaymentTermReason",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Quelle est la raison du choix de conditions de paiement non standard ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 89,
+    "fieldName": "nonStandardPTYes",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Oui par défaut pour NonStandardPaymentTerm</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 92,
+    "fieldName": "nonStandardPTNo",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Non par défaut pour NonStandardPaymentTerm</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 49,
+    "fieldName": "requesterPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Sélectionnez les conditions de paiement applicables pour les codes de sociétés que vous demandez.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "tpddExpirationDate",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Date d'expiration de la diligence raisonnable ç l’égard des tiers</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "currency",
+    "name": "<p>Veuillez sélectionner la devise</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

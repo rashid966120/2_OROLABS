@@ -1,0 +1,14 @@
+{
+  "--category--": "Categoria",
+  "--select--": "Seleziona",
+  "--failedToGenerateRecommendations--": "Impossibile generare raccomandazioni",
+  "--viewAllOptions--": "Visualizza tutte le opzioni",
+  "--recommendedOptions--": "Opzioni consigliate",
+  "--pleaseSelectBestCategory--": "Seleziona la categoria più adatta alla tua richiesta",
+  "--requiredField--": "Questo è un campo obbligatorio",
+  "--notTheResultYouLooking--":"Non è il risultato che stai cercando?",
+  "--hideRecommendations--":"Nascondi le raccomandazioni",
+  "--viewAllRecommendations--":"Visualizza tutte le raccomandazioni",
+  "--readMore--": "leggi di più",
+  "--readLess--": "leggi di meno"
+}

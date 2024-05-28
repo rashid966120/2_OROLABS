@@ -1,0 +1,22 @@
+[
+  {
+    "id": null,
+    "name": "Prozess nicht standardisierter Zahlungsbedingung_Verlängerung",
+    "type": "processTitle"
+  },
+  {
+    "id": 4,
+    "name": "Genehmigung nicht standardisierter Zahlungsbedingungen",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Leiter des Bereichs Beschaffung",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Leiter des Bereichs Rechnungsstellung",
+    "type": null
+  }
+]

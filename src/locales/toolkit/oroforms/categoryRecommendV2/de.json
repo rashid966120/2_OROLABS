@@ -1,0 +1,14 @@
+{
+  "--category--": "Kategorie",
+  "--select--": "Auswählen",
+  "--failedToGenerateRecommendations--": "Empfehlungen konnten nicht erstellt werden",
+  "--viewAllOptions--": "Alle Optionen anzeigen",
+  "--recommendedOptions--": "Empfohlene Optionen",
+  "--pleaseSelectBestCategory--": "Bitte wählen Sie die beste Kategorie für Ihren Antrag",
+  "--requiredField--": "Dies ist ein Pflichtfeld",
+  "--notTheResultYouLooking--":"Nicht das gewünschte Ergebnis?",
+  "--hideRecommendations--":"Empfehlungen ausblenden",
+  "--viewAllRecommendations--":"Alle Empfehlungen anzeigen",
+  "--readMore--": "mehr lesen",
+  "--readLess--": "weniger lesen"
+}

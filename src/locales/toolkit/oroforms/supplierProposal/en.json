@@ -1,0 +1,18 @@
+{
+  "--uploadQuoteProposal--": "Upload quote / proposal",
+  "--supportedFormats--": "Supported formats:",
+  "--upload--": "Upload",
+  "--proposalDetails--": "Proposal Details",
+  "--pleaseEnsureTheDetailsAreCorrect--": "Please ensure the details filled are correct and match the uploaded document",
+  "--supplierLegalName--": "Supplier Legal Name",
+  "--description--": "Deascription",
+  "--deliveryDate--": "Delivery Date",
+  "--totalAmount--": "Total Amount",
+  "--supplierCountry--": "Supplier Country",
+  "--paymentTerm--": "Payment Term",
+  "--edit--": "Edit",
+  "--save--": "Save",
+  "--proposal--": "Proposal",
+  "--previewNotAvailable--": "Preview not available",
+  "--thereAreSomeErrorsInForm--": "There are some errors in form. Please check"
+}

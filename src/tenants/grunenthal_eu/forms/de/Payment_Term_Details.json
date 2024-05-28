@@ -1,0 +1,94 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Einzelheiten zur Zahlungsbedingung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Zahlungsbedingung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "„<p><strong style=\\\"color: rgb(62, 68, 86);\\\"><u>Hinweis</u>: „Sonstige\" (nicht standardisierte Zahlungsbedingungen) bedürfen der Genehmigung durch den Leiter des Beschaffungsbereichs/</strong><strong style=\\\"color: rgb(34, 34, 34);\\\">Leiter der Kreditorenbuchhaltung</strong><strong style=\\\"color: rgb(62, 68, 86);\\\">. </strong></p>“",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "nonStandardPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Geben Sie die geltende Zahlungsbedingung ein</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "nonStandardPaymentTermReason",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Was ist der Grund für die Wahl einer nicht standardisierten Zahlungsbedingung?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "nonStandardPTYes",
+    "name": "<p>Voreinstellung Ja für NonStandardPaymentTerm</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "nonStandardPTNo",
+    "name": "<p>Voreinstellung Nein für NonStandardPaymentTerm</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "isStandardPaymentTerm",
+    "name": "<p>Ich möchte eine standardisierte Zahlungsbedingung verwenden</p><p><strong style=\"color: rgb(62, 68, 86);\"><u>Hinweis</u>: Eine nicht standardisierte Zahlungsbedingung bedarf der Genehmigung durch den Leiter des Beschaffungsbereichs/</strong><strong style=\"color: rgb(34, 34, 34);\">Leiter der Kreditorenbuchhaltung</strong><strong style=\"color: rgb(62, 68, 86);\">. </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Other": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "requesterPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Wählen Sie die geltende Zahlungsbedingung für den </span>Lieferanten</p> aus.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

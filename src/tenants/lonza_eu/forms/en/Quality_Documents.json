@@ -1,0 +1,72 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Quality Documents To Sign",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 37,
+        "fieldName": null,
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Please download the attached documents, fill necessary details and upload back the signed document.</em></strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 31,
+        "fieldName": "signedDocs",
+        "name": "<p><strong>Upload Signed Documents</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 42,
+        "fieldName": "localForm",
+        "name": "<p><strong>Download Local Qualification Form</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 44,
+        "fieldName": "clientqualificationdoc",
+        "name": "<p><strong>Download Client Qualification Form</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 40,
+        "fieldName": "scdForm",
+        "name": "<p><strong>Download Supply Chain Declaration Form</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    }
+]

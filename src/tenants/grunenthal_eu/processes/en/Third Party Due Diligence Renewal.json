@@ -1,0 +1,97 @@
+[
+  {
+    "id": null,
+    "name": "Third Party Due Diligence Renewal",
+    "type": "processTitle"
+  },
+  {
+    "id": 2,
+    "name": "Get supplier data",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Sourcing Manager Review",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Procurement Center Review",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "TPDD Approval Notification",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "To Sourcing Manager ",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "To Requester ",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Find Applicable TPDD",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "Company Information and Third party due diligence",
+    "type": null
+  },
+  {
+    "id": 13,
+    "name": "Payment details",
+    "type": null
+  },
+  {
+    "id": 15,
+    "name": "Shareholder information",
+    "type": null
+  },
+  {
+    "id": 17,
+    "name": "Contact Details",
+    "type": null
+  },
+  {
+    "id": 19,
+    "name": "Third Party Due Diligence Questionnaire",
+    "type": null
+  },
+  {
+    "id": 21,
+    "name": "Declaration",
+    "type": null
+  },
+  {
+    "id": 22,
+    "name": "Due Diligence and Risk Scoring",
+    "type": null
+  },
+  {
+    "id": 23,
+    "name": "Handle High_Medium Risk Supplier",
+    "type": null
+  },
+  {
+    "id": 24,
+    "name": "Block Vendor",
+    "type": null
+  },
+  {
+    "id": 25,
+    "name": "Vendor master data review",
+    "type": null
+  },
+  {
+    "id": 26,
+    "name": "Update Assessment Record in Syniti ",
+    "type": null
+  }
+]

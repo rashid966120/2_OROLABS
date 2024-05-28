@@ -1,0 +1,37 @@
+[
+  {
+    "id": null,
+    "name": "Supplier Data Maintenance",
+    "type": "processTitle"
+  },
+  {
+    "id": 4,
+    "name": "Supplier Questionnaires ",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Payment details",
+    "type": null
+  },
+  {
+    "id": 8,
+    "name": "Company information",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Supplier Extension Contact Details",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Procurement Center Review",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Vendor master data review",
+    "type": null
+  }
+]
