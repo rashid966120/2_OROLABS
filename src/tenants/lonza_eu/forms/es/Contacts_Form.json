@@ -1,0 +1,92 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Formulario de contacto",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Contacto para pedidos",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 5,
+        "fieldName": null,
+        "name": "Contacto financiero",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 8,
+        "fieldName": null,
+        "name": "Contacto de servicio personalizado",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 11,
+        "fieldName": null,
+        "name": "Contacto comercial",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 4,
+        "fieldName": "poContact",
+        "name": "<p><strong>Comparta los datos de contacto de la orden de compra</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contacto para pedidos",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "financeContact",
+        "name": "<p><strong>Indique los datos de contacto de Finanzas</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contacto",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 10,
+        "fieldName": "custServiceCobntact",
+        "name": "<p><strong>Indique los datos de contacto del servicio de atención al cliente (opcional)</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contacto",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 13,
+        "fieldName": "salesContact",
+        "name": "<p><strong>Indique los datos de contacto de ventas (opcional)</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contacto",
+        "choices": null,
+        "type": "field"
+    }
+]

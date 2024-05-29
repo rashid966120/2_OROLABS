@@ -1,0 +1,98 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Formulario ESG para proveedores",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Datos ESG",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 25,
+        "fieldName": null,
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>En caso de que no se facilite ningún número EVID o DUNS, se pedirá a su empresa que se someta a una evaluación de sostenibilidad por parte de Integrity Next.</em></strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "ecovadisID",
+        "name": "<p>Indique el número de identificación de Ecovadis*.</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 12,
+        "fieldName": "DUNSNumber",
+        "name": "<p>Indique el número DUNS*.</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 10,
+        "fieldName": "ESGCategory",
+        "name": "<p><strong>Para que podamos acceder a la información ESG sobre su empresa, indique su EcoVadis ID (EVID) y/o su número DUNS. En caso de que no disponga de información, es posible que Integrity Next solicite a su empresa que se someta a una evaluación de sostenibilidad.</strong></p>",
+        "description": null,
+        "helpText": "<p><span style=\"color: rgb(0, 0, 0);\">¿No tiene número DUNS? Consiga uno gratis en </span><a href=\"https://www.dnb.com/en-ch/duns-request.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\">aquí</a></p>",
+        "listItemPrefix": null,
+        "choices": {
+            "Ecovadis ID": "Identificación de Ecovadis",
+            "None of the above": "Ninguna de las anteriores",
+            "DUNS number": "Número DUNS"
+        },
+        "type": "field"
+    },
+    {
+        "id": 31,
+        "fieldName": "isEcovadisNULL",
+        "name": "<p>El id de ecovadis es nulo</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 20,
+        "fieldName": "sustainabilityContactPerson",
+        "name": "<p><strong>Facilite una persona de contacto en materia de sostenibilidad (si dispone de ella).</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contacto",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 34,
+        "fieldName": "esgAgreement",
+        "name": null,
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "I hereby certify that to the best of my knowledge, the information presented in this form, is true and correct.": "Por la presente certifico que, a mi leal saber y entender, la información presentada en este formulario es veraz y correcta."
+        },
+        "type": "field"
+    }
+]

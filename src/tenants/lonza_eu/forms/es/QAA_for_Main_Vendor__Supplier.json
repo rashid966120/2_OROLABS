@@ -1,0 +1,175 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "QAA para el vendedor principal - Proveedor",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": null,
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 4,
+        "fieldName": "agreementType",
+        "name": "<p><strong>¿Tipo de acuerdo necesario para la plena cualificación?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "QAA": "QAA",
+            "SCL": "SCL"
+        },
+        "type": "field"
+    },
+    {
+        "id": 25,
+        "fieldName": "qaawarning",
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>No se necesita QAA para este proveedor.</em></strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 22,
+        "fieldName": "isQAARequired",
+        "name": "<p>iS QAA Requerido</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 34,
+        "fieldName": "helpTextPreSCL",
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Debido al corto plazo de tiempo hasta la realización del pedido, le rogamos firme el documento adjunto como acuerdo preliminar simplificado de calidad. En cuanto se firme (por vía húmeda o electrónica), se iniciarán las negociaciones para el acuerdo de calidad total.</em></strong></p><p><br></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 36,
+        "fieldName": "helpTextFullQAA",
+        "name": "nula(1)",
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>El acuerdo adjunto deberá estar firmado en su totalidad a más tardar en la fecha arriba mencionada. Si usted no puede cumplir con este plazo, por favor háganoslo saber inmediatamente. &nbsp;</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Por favor, devuelva el archivo de Word w cambios de pista activa después de la negociación para que podamos poner en marcha el proceso de firma.</em></strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 31,
+        "fieldName": "fullQAAorPreSCL",
+        "name": "<p><strong>¿Comenzará directamente con QAA (se requieren al menos 10 semanas) o lanzará SCL preliminar:</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "Full QAA": "QAA completo",
+            "Preliminary SCL": "SCL preliminar"
+        },
+        "type": "field"
+    },
+    {
+        "id": 16,
+        "fieldName": "negotiationBy",
+        "name": "<p><strong>¿Negociación por parte de Site QA o GQCSC?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "Agreement negotiated by Site": "Acuerdo negociado por el sitio",
+            "Agreement negotiated by GQCSC": "Acuerdo negociado por GQCSC"
+        },
+        "type": "field"
+    },
+    {
+        "id": 19,
+        "fieldName": "agreementAssignee",
+        "name": "<p><strong>Cesionario del acuerdo GQCSC</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "q7__p__strong_Are_there_at_least_",
+        "name": "<p><strong>Plazos estimados hasta la colocación de la orden de compra:</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "> 6 months": "> 6 meses",
+            "< 3 months": "< 3 meses",
+            "3 to 6 months": "De 3 a 6 meses"
+        },
+        "type": "field"
+    },
+    {
+        "id": 28,
+        "fieldName": "latestDateForQualityAgreement",
+        "name": "<p><strong>Fecha límite para la firma completa del Acuerdo de Calidad (en general, unas 2 semanas antes de la fecha prevista para el pedido).</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 10,
+        "fieldName": "agreementTemplate",
+        "name": "<p><strong>Descargue las plantillas de acuerdos precumplimentadas</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 38,
+        "fieldName": "agreementTemplateSupplier",
+        "name": "<p><strong>Cargue la(s) plantilla(s) de acuerdo precumplimentada(s)   </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 13,
+        "fieldName": "sclTemplate",
+        "name": "<p><strong>Descargue la plantilla SCL precumplimentada</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 40,
+        "fieldName": "scltemplateSupplier",
+        "name": "<p><strong>Cargue la plantilla SCL precumplimentada  </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    }
+]
