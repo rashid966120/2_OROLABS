@@ -1,0 +1,129 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Lieferant aktualisieren Anforderungseingabe",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 43,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Anwendbare Updates",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 75,
+    "fieldName": null,
+    "name": "Zahlungsbedingungen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 56,
+    "fieldName": "q56__p_If_Bank_Update_needed__hidd",
+    "name": "<p>Falls Bankaktualisierung erforderlich (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 68,
+    "fieldName": "_p_isNonStdPaymentTerm__p_",
+    "name": "<p>isNonStdPaymentTerm (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "q74__p__span_style__color__rgb_87_",
+    "name": "Vom Antragsteller angegebener Grund für nicht standardisierte Zahlungsbedingung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "q71__p__span_style__color__rgb_62_",
+    "name": "Zutreffende nicht standardisierte Zahlungsbedingung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Apply this payment term to all the entities that are extended to this supplier.": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "_p_Payment_Term_requested__p_",
+    "name": "<p>Zahlungsfrist zu aktualisieren mit</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Which_of_the_following__str",
+    "name": "<p>Welche der folgenden <strong>Lieferanteninformationen</strong> würden Sie gerne aktualisieren?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Payment Term": "",
+      "Bank information": "",
+      "Company Name/Address": "",
+      "Supplier Contacts": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": "q42__p_Select_the__span_style__col",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Wählen Sie die Entität </span><strong style=\"color: rgb(62, 68, 86);\">Grünenthal</strong><span style=\"color: rgb(62, 68, 86);\"> aus, die für die Aktualisierung in Frage kommt.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
