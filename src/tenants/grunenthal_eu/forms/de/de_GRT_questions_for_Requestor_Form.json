@@ -1,0 +1,232 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Angaben zum Anbieter vom Antragsteller",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 197,
+    "fieldName": null,
+    "name": "Währung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Compliance",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 84,
+    "fieldName": null,
+    "name": "Tierschutz",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 77,
+    "fieldName": null,
+    "name": "Umwelt, Gesundheit und Sicherheit",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 145,
+    "fieldName": null,
+    "name": "GxP-Compliance",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 149,
+    "fieldName": null,
+    "name": "Informationstechnologie",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 87,
+    "fieldName": null,
+    "name": null,
+    "description": "Anmerkung: Wenn Sie diese Frage mit \\\"Ja\\\" beantworten, wird eine Aktion zum Abschluss des Onboarding-Prozesses für den Tierschutz ausgelöst",
+    "helpText": "Hinweis für Antragsteller: Sie müssen den Fragebogen zum Tierschutz ausfüllen, bevor der Lieferant angelegt werden kann. Dieses Verfahren muss außerhalb von ORO durchgeführt werden. Für weitere Informationen wenden Sie sich bitte an die Animal Welfare Group: AWWG@grunenthal.com",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "q83__p__strong_style__background_c",
+    "name": "Anmerkung: Die Beantwortung dieser Frage mit \"Ja\" löst eine Aktion zum Abschluss des EHS-Onboarding-Prozesses aus",
+    "description": "Anmerkung: Die Beantwortung dieser Frage mit \\\"Ja\\\" löst eine Maßnahme zur Vervollständigung des Onboarding-Prozesses für Umwelt, Gesundheit  Sicherheit aus",
+    "helpText": "Hinweis für Antragsteller: Sie müssen den EHS-Onboarding-Fragebogen ausfüllen, bevor der Lieferant angelegt werden kann. Dieses Verfahren muss außerhalb von ORO durchgeführt werden. Für weitere Informationen wenden Sie sich bitte an den Supervisor/Eigentümer des Jobs, der in diesem Prozess geschult wurde.",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": null,
+    "name": null,
+    "description": "Anmerkung: Bitte lösen Sie den DPA-Prozess in eContract aus.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 186,
+    "fieldName": "q186__p__span_style__color__rgb_62_",
+    "name": "IT-Bedarf #",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 196,
+    "fieldName": "isITDemand",
+    "name": "Gibt es einen IT-Bedarf? (Versteckt)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 194,
+    "fieldName": "itBusinessPartner",
+    "name": "<p>IT-Geschäftspartner-Team / IT-Geschäftspartner vor Ort auswählen</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 148,
+    "fieldName": "_p_BD__p_",
+    "name": "Ist der Anbieter GxP-relevant?",
+    "description": null,
+    "helpText": "GxP-relevante Anbieter liefern in der Regel Produkte/Materialien, die direkt mit dem Produkt in Berührung kommen, oder Produkte/Dienstleistungen, die im Reinraum verwendet oder für die Herstellung von Arzneimitteln eingesetzt werden.",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Are_the_studies_performed_b",
+    "name": "Werden die vom Anbieter durchgeführten Studien auch mit tierischem Gewebe durchgeführt?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 80,
+    "fieldName": "q80__p__span_style__color__rgb_31_",
+    "name": "Wird der Anbieter eine Tätigkeit in den Einrichtungen von Grünenthal ausüben?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 152,
+    "fieldName": "q152__p_Are_the_goods_services_you_",
+    "name": "Handelt es sich bei den Waren/Dienstleistungen, die Sie zu kaufen beabsichtigen, um irgendeine Art von IT-Lösung und/oder IT-Dienstleistung?",
+    "description": null,
+    "helpText": "<p>Ein IT-Dienst kann Software, Software as a Service (SaaS), IT-Beratung/Support, aber auch Business Process Outsourcing sein, das durch eine IT-Lösung oder ein SaaS unterstützt wird. SaaS kann externe Webhosting-Dienste umfassen (z. B. IaaS, PaaS oder jede Art von verwaltetem Dienst).</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 155,
+    "fieldName": "q155__p_Is_there_an_IT_demand_relat",
+    "name": "Besteht in diesem Zusammenhang ein IT-Bedarf?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 200,
+    "fieldName": "q200__p_Please_select_the_currency_",
+    "name": "<p>Bitte wählen Sie die Währung des Anbieters </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_Will_personal_data_be_proce",
+    "name": "Werden personenbezogene Daten von dem Dritten im Auftrag von Grünenthal verarbeitet?",
+    "description": null,
+    "helpText": "<p>i - \"Personenbezogene Daten\" sind alle Informationen über eine bestimmte oder bestimmbare natürliche Person (\"betroffene Person\"); als bestimmbar wird eine natürliche Person angesehen, die direkt oder indirekt identifiziert werden kann, insbesondere durch Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.'</p><p><br></p><p>ii - '<span style=\"color: rgb(87, 95, 112);\">Der Begriff der Verarbeitung ist sehr weit gefasst und umfasst nicht nur die Speicherung personenbezogener Daten, sondern auch das Erheben, das Speichern, das Strukturieren, das Verändern, das Abfragen, die Nutzung, die Verbreitung oder die Vernichtung personenbezogener Daten. Das bedeutet, dass in der Praxis alle Tätigkeiten, die mit personenbezogenen Daten durchgeführt werden, die Verarbeitung von personenbezogenen Daten beinhalten können.",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "q50__p__span_style__color__rgb_31_",
+    "name": "Erfordert diese Dienstleistung, dass der Anbieter mit Behörden, Amtsträgern oder Angehörigen der Gesundheitsberufe im Namen von Grünenthal interagiert?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 177,
+    "fieldName": "q177__p__em_Does_the_vendor_have_th",
+    "name": "Hat der Anbieter die Möglichkeit, die Verschreibung von Arzneimitteln zu beeinflussen?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Does_the_vendor_require_an_",
+    "name": "Verlangt der Anbieter eine Vorauszahlung?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
