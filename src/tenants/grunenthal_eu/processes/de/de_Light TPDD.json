@@ -1,0 +1,37 @@
+[
+  {
+    "id": null,
+    "name": "Leichte TPDD",
+    "type": "processTitle"
+  },
+  {
+    "id": 71,
+    "name": "Name, Land und Bank abgleichen",
+    "type": null
+  },
+  {
+    "id": 64,
+    "name": "Prüfung auf Sanktionen und Negativnachrichten",
+    "type": null
+  },
+  {
+    "id": 59,
+    "name": "Überprüfung der Lieferantendaten – Beschaffungsstelle",
+    "type": null
+  },
+  {
+    "id": 65,
+    "name": "Globale Compliance-Genehmigung - Sanktionen",
+    "type": null
+  },
+  {
+    "id": 66,
+    "name": "TPDD-Risiko-Scoring",
+    "type": null
+  },
+  {
+    "id": 67,
+    "name": "TPDD und Risiko aktualisieren",
+    "type": null
+  }
+]
