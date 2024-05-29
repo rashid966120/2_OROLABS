@@ -1,0 +1,97 @@
+[
+  {
+    "id": null,
+    "name": "Supplier Light Screening Assessment by ANDOVAR",
+    "type": "processTitle"
+  },
+  {
+    "id": 3,
+    "name": "Validating Email with ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "ANDOVAR Domain Validation Process",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Updating DUNS Number using ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "Obtaining D&B Score with ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "ANDOVAR Custom Risk Scoring",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "Reviewing Light Screening with ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 8,
+    "name": "Supplier Status Update ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "ANDOVAR Supplier ESG Screening Results",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "Financial Screening by ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 12,
+    "name": "ANDOVAR Compliance Check",
+    "type": null
+  },
+  {
+    "id": 13,
+    "name": "Integrating ANDOVAR Data",
+    "type": null
+  },
+  {
+    "id": 14,
+    "name": "ANDOVAR Risk Assessment",
+    "type": null
+  },
+  {
+    "id": 15,
+    "name": "ANDOVAR Supplier Verification",
+    "type": null
+  },
+  {
+    "id": 16,
+    "name": "ANDOVAR Fraud Detection",
+    "type": null
+  },
+  {
+    "id": 17,
+    "name": "Reviewing ANDOVAR Reports",
+    "type": null
+  },
+  {
+    "id": 18,
+    "name": "ANDOVAR Compliance Reporting",
+    "type": null
+  },
+  {
+    "id": 19,
+    "name": "Generating ANDOVAR Insights",
+    "type": null
+  },
+  {
+    "id": 20,
+    "name": "ANDOVAR Supplier Onboarding",
+    "type": null
+  }
+]
