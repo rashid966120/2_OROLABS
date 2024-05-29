@@ -1,0 +1,181 @@
+[
+  {
+    "id": "Supplier Onboarding Workflow",
+    "requestName": "Einbindung neuer Lieferanten",
+    "shortDescription": "Einbindung neuer Lieferanten",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Need": "Bedarf",
+      "Details": "Einzelheiten",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Documents": "Dokumente",
+      "Review Process": "Überprüfungsprozess",
+      "Supplier": "Lieferant",
+      "IT": "IT"
+    }
+  },
+  {
+    "id": "Test supplier notification",
+    "requestName": "Benachrichtigung der Testanbieter",
+    "shortDescription": "Inhalt der Test-Lieferantenbenachrichtigung per E-Mail",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Documents": "Dokumente",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Supplier": "Lieferant",
+      "Onboarding details": "Einzelheiten zum Onboarding",
+      "IT": "IT"
+    }
+  },
+  {
+    "id": "TPDD Renewal",
+    "requestName": "TPDD-Verlängerung",
+    "shortDescription": "TPDD-Verlängerung",
+    "stepTitles": {
+      "Details": "Einzelheiten",
+      "Compliance": "Compliance",
+      "Review Process": "Überprüfungsprozess",
+      "Info": "Info"
+    }
+  },
+  {
+    "id": "Supplier Extension Workflow",
+    "requestName": "Lieferantenverlängerung",
+    "shortDescription": "Lieferantenverlängerung",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Need": "Bedarf",
+      "Details": "Einzelheiten",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Supplier": "Lieferant",
+      "IT": "IT"
+    }
+  },
+  {
+    "id": "Supplier Data Maintenance",
+    "requestName": "Pflege von Lieferantendaten",
+    "shortDescription": "Pflege von Lieferantendaten",
+    "stepTitles": {
+      "Details": "Einzelheiten",
+      "Review Process": "Überprüfungsprozess",
+      "Type of Update": "Art der Aktualisierung",
+      "Supplier": "Lieferant"
+    }
+  },
+  {
+    "id": "Supplier data update",
+    "requestName": "Update für Lieferanten",
+    "shortDescription": "Aktualisierung der Lieferantendaten",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Company": "Unternehmen",
+      "Details": "Einzelheiten",
+      "Contacts": "Kontakte",
+      "Quality": "Qualität",
+      "Legal": "Rechtliches",
+      "Supplier": "Lieferant",
+      "IT": "IT",
+      "Review": "Überprüfung"
+    }
+  },
+  {
+    "id": "Ask ORO AI",
+    "requestName": "ORO AI fragen",
+    "shortDescription": "Nutzer zum richtigen Kaufkanal leiten",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Basic": "Grundlegend",
+      "Details": "Einzelheiten",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Documents": "Dokumente",
+      "Legal": "Rechtliches",
+      "Supplier": "Lieferant",
+      "Budget": "Haushalt",
+      "IT": "IT"
+    }
+  },
+  {
+    "id": "Test TPDD form",
+    "requestName": "Test TPDD-Formular",
+    "shortDescription": "",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Documents": "Dokumente",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Supplier": "Lieferant",
+      "Onboarding details": "Einzelheiten zum Onboarding",
+      "IT": "IT"
+    }
+  },
+  {
+    "id": "Test category suggestion",
+    "requestName": "Vorschlag für eine Testkategorie",
+    "shortDescription": "",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Choose category": "Kategorie wählen",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Documents": "Dokumente",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Onboarding details": "Einzelheiten zum Onboarding",
+      "IT": "IT"
+    }
+  },
+  {
+    "id": "Supplier onboarding request",
+    "requestName": "Anfrage des Lieferanten",
+    "shortDescription": "Für neue und bestehende Lieferanten (Erweiterung)",
+    "stepTitles": {
+      "Guidance": "Leitfaden",
+      "Procurement": "Beschaffung",
+      "Basic": "Grundlegend",
+      "Compliance": "Compliance",
+      "Individual": "Einzelperson",
+      "Old": "Alte",
+      "Quality": "Qualität",
+      "Legal": "Rechtliches",
+      "Supplier": "Lieferant",
+      "IT": "IT"
+    }
+  },
+  {
+    "id": "Supplier Updates",
+    "requestName": "Lieferanteninformationen aktualisieren",
+    "shortDescription": "Lieferanten-Updates",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Documents": "Dokumente",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Supplier": "Lieferant",
+      "Onboarding details": "Einzelheiten zum Onboarding",
+      "IT": "IT"
+    }
+  },
+  {
+    "id": "Sanction and Adverse Media Check",
+    "requestName": "Prüfung auf Sanktionen und Negativnachrichten",
+    "shortDescription": "Sanktions- und Adverse Media Check durch lexisnexis",
+    "stepTitles": {
+      "Compliance": "Compliance",
+      "Documents": "Dokumente",
+      "Review Process": "Überprüfungsprozess",
+      "Info": "Info"
+    }
+  }
+]
