@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "name": "ANDOVAR Supplier Light Screening Assessment",
+    "type": "processTitle"
+  },
+  {
+    "id": 3,
+    "name": "ANDOVAR Email validation",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "ANDOVAR Domain validation",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Update DUNS number ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "Get D&B score ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Custom Risk Scoring with ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "ANDOVAR Light Screening Review",
+    "type": null
+  },
+  {
+    "id": 8,
+    "name": "Update Supplier status ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "ANDOVAR Results of Potential Supplier ESG Screening",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "ANDOVAR Financial screening",
+    "type": null
+  }
+]
