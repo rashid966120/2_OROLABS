@@ -1,0 +1,116 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Allgemeine T&C und Verhaltenskodex",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Bitte beantworten Sie die folgenden Fragen, um als Lonza-Lieferant berücksichtigt zu werden",
+        "description": "",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 12,
+        "fieldName": null,
+        "name": "Allgemeine Bedingungen und Konditionen",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 19,
+        "fieldName": null,
+        "name": "Verhaltenskodex",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 15,
+        "fieldName": null,
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>Sofern in einem Einzelvertrag nicht anders angegeben, gelten die entsprechenden Allgemeinen Geschäftsbedingungen der Lonza. Diese können bei Lonza angefordert oder unter </em></strong><em style=\\\"color: rgb(62, 68, 86);\\\">\"</em><a href=\\\"https://www.lonza.com/conditions\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\"><strong><em>Allgemeine Geschäftsbedingungen</em></strong></a><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>\\\"</em></strong></p>\" heruntergeladen werden.",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 18,
+        "fieldName": null,
+        "name": null,
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "",
+        "choices": {
+            "Accept": "Akzeptieren"
+        },
+        "type": "field"
+    },
+    {
+        "id": 22,
+        "fieldName": null,
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>Ich nehme zur Kenntnis und erkläre mich damit einverstanden, dass unser Unternehmen jederzeit den \\\"</em></strong><a href=\\\"https://www.lonza.com/public/supplier-code-of-conduct\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\"><strong><em>Verhaltenskodex für Lieferanten von Lonza</em></strong></a><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>\\\"</em></strong></p>\" einhalten wird.",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 25,
+        "fieldName": "_p__br___p_",
+        "name": "#",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "",
+        "choices": {
+            "Accept": "Akzeptieren"
+        },
+        "type": "field"
+    },
+    {
+        "id": 4,
+        "fieldName": "isGovernmentAgency",
+        "name": "<p><strong>Ist Ihr Unternehmen eine Regierungsbehörde oder sind Sie ein Regierungsbeamter, eng mit einer Regierungsbehörde oder einem Beamten verbunden oder im Besitz einer Regierungsbehörde oder eines Beamten?</strong>&nbsp;</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "isCC3",
+        "name": "<p><strong>Werden Sie oder Ihr Unternehmen im Namen von Lonza handeln, wenn es um den Verkauf von Waren oder Dienstleistungen von Lonza geht (als Verkaufsvertreter/Vertriebshändler/Händler)?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 10,
+        "fieldName": "isCC4",
+        "name": "<p><strong>Werden Sie oder Ihr Unternehmen die Marke oder die Produkte von Lonza vertreten oder anderweitig im Namen von Lonza mit anderen interagieren?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    }
+]

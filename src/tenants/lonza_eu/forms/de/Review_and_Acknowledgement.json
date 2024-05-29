@@ -1,0 +1,54 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Überprüfung und Anerkennung (Qualität)",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 44,
+        "fieldName": null,
+        "name": "",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 22,
+        "fieldName": "null_1__1__1_",
+        "name": "null(1)(1)",
+        "description": "\"<p><strong><em>Ich bestätige hiermit, dass die hier gemachten Angaben nach bestem Wissen und Gewissen wahrheitsgemäß und richtig sind.</em></strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 40,
+        "fieldName": "isTrue",
+        "name": null,
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "I hereby certify that to the best of my knowledge, the information presented in all the forms above, is true and correct.": "Hiermit bestätige ich nach bestem Wissen und Gewissen, dass die Angaben in allen oben genannten Formularen wahrheitsgemäß und korrekt sind."
+        },
+        "type": "field"
+    },
+    {
+        "id": 69,
+        "fieldName": null,
+        "name": null,
+        "description": "\"<p><strong>Formulare, die in diesem Abschnitt ausgefüllt werden:</strong></p><p><br></p><ol><li>Qualitätsverpflichtungen der Lieferanten</li><li>Zu unterzeichnende Qualitätsdokumente</li></ol>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    }
+]

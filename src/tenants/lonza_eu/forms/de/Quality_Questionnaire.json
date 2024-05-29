@@ -1,0 +1,132 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Qualitätsverpflichtungen der Lieferanten",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Bitte beantworten Sie den Qualitätsfragebogen für den Qualifizierungsprozess",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 13,
+        "fieldName": "isWillingForQAgreement",
+        "name": "<p><strong>Sind Sie bereit, bei Bedarf eine Qualitätsvereinbarung gemäß den Lonza-Prozessen abzuschließen?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 9,
+        "fieldName": "isWillingForAudits",
+        "name": "<p><strong>Sind Sie bereit, bei Bedarf Audits nach Lonza-Verfahren zuzulassen?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "qualityQuestionnaireContact",
+        "name": "<p><strong>Kontakt für QualitätsCompliance-Fragebogen</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Kontakt",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 15,
+        "fieldName": "qualityAgreementContact",
+        "name": "<p><strong>Kontakt für Qualitätsvereinbarung</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Kontakt",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 18,
+        "fieldName": "complianceComments",
+        "name": "<p><strong>Kommentare (fakultativ) </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 25,
+        "fieldName": "willingForChangeNotifications",
+        "name": "<p><strong>Sind Sie bereit, Lonza Änderungsmitteilungen für an Lonza verkaufte Produkte / Dienstleistungen zu übermitteln?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 27,
+        "fieldName": "changeNotificationComments",
+        "name": "<p><strong>Kommentare (fakultativ)    </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 22,
+        "fieldName": "q22__p__strong_Comments__Optional_",
+        "name": "<p><strong>Kommentare (fakultativ)   </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 20,
+        "fieldName": "auditComments",
+        "name": "<p><strong>Kommentare (fakultativ)  </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 4,
+        "fieldName": "q4_isWillingToCompleteQuestionnai",
+        "name": "<p><strong>Sind Sie bereit, bei Bedarf Fragebögen zur Einhaltung der Lonza-Prozesse auszufüllen?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 11,
+        "fieldName": "auditContacts",
+        "name": "<p><strong>Kontakt für Compliance Audits</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Kontakt",
+        "choices": null,
+        "type": "field"
+    }
+]
