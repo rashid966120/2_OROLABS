@@ -1,0 +1,137 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Zusammenfassung der Due-Diligence-Prüfung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Angewandtes Verfahren für Due-Diligence-Prüfung Dritter",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": null,
+    "name": "Sanktionsliste und Negativnachrichten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "Anmerkung: Die erweiterte Due-Diligence-Prüfung Dritter kann auch angewendet werden, wenn die Ergebnisse der einfachen Due-Diligence-Prüfung Dritter ein hohes Risiko aufzeigen.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "Status der automatisierten Sanktionslisten- und Negativnachrichtenprüfung: Es gibt keine Übereinstimmungen.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "Status der automatisierten Sanktionslistenprüfung: Es wurden Übereinstimmungen gefunden.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": null,
+    "description": "Status der automatisierten Negativnachrichtenprüfung Es wurden Übereinstimmungen gefunden.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "q48__p__span_style__color__rgb_62_",
+    "name": "Bitte bestätigen Sie manuell, ob Negativnachrichten gefunden wurden.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "False hits": "Falsche Treffer",
+      "Found hits that are directly impacting the business relationship": "Gefundene Treffer, die direkte Auswirkungen auf die Geschäftsbeziehung haben",
+      "Found hits that are not impacting the business relationship directly": "Gefundene Treffer, die keine direkten Auswirkungen auf die Geschäftsbeziehung haben",
+      "No hits": "Keine Treffer"
+    },
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "q88__p_Please_add_your_comments___",
+    "name": "Kommentar Beschaffungsstelle",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "Die erweiterte Due-Diligence-Prüfung Dritter wurde auf der Grundlage der Angaben auf diesen Anbieter angewandt",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "Due-Diligence-Prüfung Dritter bzgl. Umwelt, Soziales und Unternehmensführung wurde auf der Grundlage der Angaben auf diesen Anbieter angewandt",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Die einfache Due-Diligence-Prüfung Dritter  wurde auf der Grundlage der Angaben auf diesen Anbieter angewandt.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 91,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Auf der Grundlage der Angaben ist <strong style=\\\"color: rgb(0, 138, 0);\\\">Third Party Due Dilligence nicht anwendbar. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
