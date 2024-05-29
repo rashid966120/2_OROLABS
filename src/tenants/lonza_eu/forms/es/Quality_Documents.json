@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "Documentos de calidad para firmar",
+        "name": "äääääää äääääääää ää ääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -23,7 +23,7 @@
         "id": 37,
         "fieldName": null,
         "name": null,
-        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Por favor, descargue los documentos adjuntos, rellene los datos necesarios y vuelva a subir el documento firmado.</em></strong></p>\"",
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>ääääää ääääääää äää ääääääää äääääääää, ääää äääääääää äääääää äää ääääää ääää äää ääääää ääääääää.</em></strong></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,
@@ -32,7 +32,7 @@
     {
         "id": 31,
         "fieldName": "signedDocs",
-        "name": "<p><strong>Cargar documentos firmados</strong></p>",
+        "name": "<p><strong>ääääää ääääää äääääääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -42,7 +42,7 @@
     {
         "id": 42,
         "fieldName": "localForm",
-        "name": "<p><strong>Descargar el formulario de cualificación local</strong></p>",
+        "name": "<p><strong>ääääääää äääää äääääääääääää ääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -52,7 +52,7 @@
     {
         "id": 44,
         "fieldName": "clientqualificationdoc",
-        "name": "<p><strong>Descargar el formulario de cualificación de clientes</strong></p>",
+        "name": "<p><strong>ääääääää ääääää äääääääääääää ääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -62,7 +62,7 @@
     {
         "id": 40,
         "fieldName": "scdForm",
-        "name": "<p><strong>Descargar el formulario de declaración de la cadena de suministro</strong></p>",
+        "name": "<p><strong>ääääääää ääääää äääää äääääääääää ääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
