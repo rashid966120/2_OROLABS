@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "Formulario de contacto de Update Andovar",
+        "name": "ääääääää ääää ääää ääääää äääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -12,7 +12,7 @@
     {
         "id": 1,
         "fieldName": null,
-        "name": "Contacto para pedidos",
+        "name": "ääääääää äääää äääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -22,7 +22,7 @@
     {
         "id": 5,
         "fieldName": null,
-        "name": "Contacto financiero",
+        "name": "äääääää äääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -32,7 +32,7 @@
     {
         "id": 8,
         "fieldName": null,
-        "name": "Contacto de servicio personalizado",
+        "name": "ääääää äääääää äääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -42,7 +42,7 @@
     {
         "id": 11,
         "fieldName": null,
-        "name": "Contacto comercial",
+        "name": "äääää äääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -52,40 +52,40 @@
     {
         "id": 4,
         "fieldName": "poContact",
-        "name": "<p><strong>Comparta los datos de contacto de la orden de compra</strong></p>",
+        "name": "<p><strong>ääääää äääää äää ääääääää äääää äääääää äääääää</strong></p>",
         "description": null,
         "helpText": null,
-        "listItemPrefix": "Contacto para pedidos",
+        "listItemPrefix": "ääääääää äääää äääääää",
         "choices": null,
         "type": "field"
     },
     {
         "id": 7,
         "fieldName": "financeContact",
-        "name": "<p><strong>Indique los datos de contacto de Finanzas</strong></p>",
+        "name": "<p><strong>ääääää äääää äää äääääää äääääää äääääää</strong></p>",
         "description": null,
         "helpText": null,
-        "listItemPrefix": "Contacto",
+        "listItemPrefix": "äääääää",
         "choices": null,
         "type": "field"
     },
     {
         "id": 10,
         "fieldName": "custServiceCobntact",
-        "name": "<p><strong>Indique los datos de contacto del servicio de atención al cliente (opcional)</strong></p>",
+        "name": "<p><strong>ääääää äääää äää ääääääää äääääää äääääää äääääää(ääääääää)</strong></p>",
         "description": null,
         "helpText": null,
-        "listItemPrefix": "Contacto",
+        "listItemPrefix": "äääääää",
         "choices": null,
         "type": "field"
     },
     {
         "id": 13,
         "fieldName": "salesContact",
-        "name": "<p><strong>Indique los datos de contacto de ventas (opcional)</strong></p>",
+        "name": "<p><strong>ääääää äääää äää äääää äääääää äääääää(ääääääää)</strong></p>",
         "description": null,
         "helpText": null,
-        "listItemPrefix": "Contacto",
+        "listItemPrefix": "äääääää",
         "choices": null,
         "type": "field"
     }
