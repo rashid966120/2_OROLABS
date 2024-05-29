@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "Condiciones generales",
+        "name": "äääääää äääää äää ääääääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -23,8 +23,8 @@
         "id": 9,
         "fieldName": null,
         "name": null,
-        "description": "\"<p><strong><em>A menos que se indique lo contrario en un acuerdo individual, se aplicarán las Condiciones Generales de Lonza correspondientes. Pueden solicitarse a Lonza o descargarse en \"</em></strong><a href=\\\"https://www.lonza.com/conditions\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong><em>Términos y Condiciones Generales</em></strong></a><strong><em>\\\"</em></strong></p>\"",
-        "helpText": "<p><a href=\"https://www.lonza.com/conditions\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.lonza.com/conditions</a></p>",
+        "description": "\"<p><strong><em>ääääää äääääääää ääääää ää ää ääääääääää äääääääää, äää ääääääää äääää äääääää äääää äää ääääääääää ääää äääää. äääää äää ää äääääääää ääää äääää ää ääääääääää äääää äää “</em></strong><a href=\\\"https://www.lonza.com/conditions\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong><em>äääääää äääää äää ääääääääää</em></strong></a><strong><em>\\\"</em></strong></p>\"",
+        "helpText": "<p><a href=\"https://www.lonza.com/conditions\" rel=\"noopener noreferrer\" target=\"_blank\">äääää://äää.äääää.äää/ääääääääää</a></p>",
         "listItemPrefix": null,
         "choices": null,
         "type": "field"
