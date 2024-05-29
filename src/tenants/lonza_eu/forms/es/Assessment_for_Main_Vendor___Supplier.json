@@ -1,0 +1,222 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Evaluación para el vendedor principal - Proveedor",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Evaluación",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 55,
+        "fieldName": "noAssessmentWarning",
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>No se necesita evaluación para este proveedor.</em></strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 50,
+        "fieldName": "_p_Is_Assessment_Required__p_",
+        "name": "<p>¿Es necesaria la evaluación?</p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "auditType",
+        "name": "<p><strong>¿Cuál es el tipo de auditoría?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "OnSite": "En el sitio",
+            "Remote": "Remoto"
+        },
+        "type": "field"
+    },
+    {
+        "id": 10,
+        "fieldName": "noOfAuditDays",
+        "name": "<p><strong>¿Número de días de auditoría necesarios?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 12,
+        "fieldName": "noOfAuditors",
+        "name": "<p><strong>¿Número de auditores necesarios?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 25,
+        "fieldName": "assessmentAssignee",
+        "name": "<p><strong>Indique el correo electrónico del empleado de Lonza asignado para realizar la evaluación del proveedor</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 4,
+        "fieldName": "assessmentType",
+        "name": "<p><strong>¿Se requiere una evaluación para obtener la cualificación completa?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "Onsite/Remote": "In situ/Remoto",
+            "Paper": "Papel"
+        },
+        "type": "field"
+    },
+    {
+        "id": 72,
+        "fieldName": "datesForAudit",
+        "name": "<p><strong>Proponga hasta tres fechas diferentes para la auditoría</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 52,
+        "fieldName": "q52__p__strong_Requested_latest_da",
+        "name": "<p><strong>Fecha límite solicitada para la colocación del pedido</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 15,
+        "fieldName": "latestDateForAudit",
+        "name": "<p><strong>¿Cuál es la fecha límite para la auditoría?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "> 6 months": "> 6 meses",
+            "< 3 months": "< 3 meses",
+            "3 to 6 months": "De 3 a 6 meses"
+        },
+        "type": "field"
+    },
+    {
+        "id": 66,
+        "fieldName": "helpTextForGreaterThan",
+        "name": "nula(1)",
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Lonza tendrá que realizar una evaluación in situ / remota de sus instalaciones con los auditores mencionados durante los días mencionados. Si puede acoger esta auditoría a más tardar en la fecha indicada anteriormente, sólo tendrá que cumplimentar los anexos marcados como \"obligatorios\"; de lo contrario, deberá cumplimentar también los cuestionarios adicionales.&nbsp;</strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 64,
+        "fieldName": null,
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Por favor, rellene todos los cuestionarios adjuntos.</strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 69,
+        "fieldName": "willSetupAudit",
+        "name": "<p><strong>¿Podrá acoger la Auditoría en el plazo seleccionado?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 18,
+        "fieldName": "mandatoryAuditQuestionnaires",
+        "name": "<p><strong>Descargar los cuestionarios obligatorios (para la preparación de auditorías)</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 74,
+        "fieldName": "mandQuest",
+        "name": "<p><strong>Cargar los cuestionarios obligatorios (para la preparación de la auditoría)   </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 20,
+        "fieldName": "additionalAuditQuestionnaires",
+        "name": "<p><strong>Descargar los cuestionarios adicionales (si los hay)</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 76,
+        "fieldName": "addQuest",
+        "name": "<p><strong>Cargue los cuestionarios adicionales (si los hay)   </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 22,
+        "fieldName": "questionnairesToComplete",
+        "name": "<p><strong>Descargar los cuestionarios necesarios</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 78,
+        "fieldName": "questTocomplete",
+        "name": "<p><strong>Cargar los cuestionarios necesarios para completar  </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    }
+]
