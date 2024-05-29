@@ -1,0 +1,64 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Formulario de direcciones",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Dirección principal/de pedido",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 5,
+        "fieldName": null,
+        "name": "Remesa/Factura presentada por dirección",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 4,
+        "fieldName": "orderingAddress",
+        "name": "<p><strong>Indique la dirección principal o de pedido</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "remittanceAddress",
+        "name": "<p><strong>Indique la remesa o factura presentada por Dirección</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 10,
+        "fieldName": "sameAsOrderAddress",
+        "name": null,
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "Same as Ordering Address": ""
+        },
+        "type": "field"
+    }
+]
