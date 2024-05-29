@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "QAA for VSCI Vendor - Proveedor Susurros del bosque antiguo.",
+        "name": "äää äää ääää ääääää - ääääääää ääääääää ää äää äääääää ääääää.",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -22,10 +22,10 @@
     {
         "id": 4,
         "fieldName": "siteList",
-        "name": "<p><strong>Por favor, revise los Sitios y proporcione a Whispers of the ancient forest. la información de evaluación necesaria.</strong></p>",
+        "name": "<p><strong>ääääää ääääää äää äääää äää äääääää ääääääää ää äää äääääää ääääää. äää äääääääää ääääääääää ääääääääääää</strong></p>",
         "description": null,
         "helpText": null,
-        "listItemPrefix": "Sitio",
+        "listItemPrefix": "ääää",
         "choices": null,
         "type": "field"
     }

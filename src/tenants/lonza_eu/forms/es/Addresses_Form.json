@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "Direcciones Formulario actualizado TEST Andoupdate Test Fuente actualización carpeta local",
+        "name": "äääääääää ääää äääääää ääää ääääääääää ääää ääääää äääää ääääää ääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -12,7 +12,7 @@
     {
         "id": 1,
         "fieldName": null,
-        "name": "Dirección principal/de pedido",
+        "name": "äääääää/ääääääää äääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -22,7 +22,7 @@
     {
         "id": 5,
         "fieldName": null,
-        "name": "Remesa/Factura presentada por dirección",
+        "name": "ääääääääää/äääääää äääääääää ää äääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "fieldName": "orderingAddress",
-        "name": "<p><strong>Indique la dirección principal o de pedido</strong></p>",
+        "name": "<p><strong>ääääää äääääää äää äääääää ää ääääääää äääääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -42,7 +42,7 @@
     {
         "id": 7,
         "fieldName": "remittanceAddress",
-        "name": "<p><strong>Indique la remesa o factura presentada por Dirección</strong></p>",
+        "name": "<p><strong>ääääää äääääää äää ääääääääää ää äääääää äääääääää ää äääääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,

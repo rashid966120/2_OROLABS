@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "Formulario SAP Ariba Details",
+        "name": "äää äääää äääääää ääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -12,7 +12,7 @@
     {
         "id": 1,
         "fieldName": null,
-        "name": "Detalles de Ariba Network",
+        "name": "äääää äääääää äääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -22,7 +22,7 @@
     {
         "id": 23,
         "fieldName": null,
-        "name": "Plazo de pago y confirmación de IncoTerm",
+        "name": "äääääää ääää äää ääääääää ääääääääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -32,7 +32,7 @@
     {
         "id": 10,
         "fieldName": "aribaNetworkID",
-        "name": "<p>Ariba Network ID(ANID) Susurros del bosque antiguo.</p>",
+        "name": "<p>äääää äääääää ää(ääää) ääääääää ää äää äääääää ääääää.</p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -43,7 +43,7 @@
         "id": 4,
         "fieldName": null,
         "name": null,
-        "description": "\"<p><strong>Lonza prefiere realizar el intercambio comercial y de documentos con los proveedores a través de SAP Ariba Network.</strong></p><p><strong>Si ya trabaja con SAP Ariba Network, facilítenos la siguiente información para simplificar el proceso de incorporación.</strong></p>\"",
+        "description": "\"<p><strong>äääää äääääää ää äääääää ääääääää äää ääääääää ääääääää ääää äääääääää äääääää äää äääää äääääää.</strong></p><p><strong>ää äää äääääää ääää ääää äää äääää äääääää, ääääää äääääää ää ääää äää äääääääää äääääääääää ää ääääääää äää ääääääääää äääääää.</strong></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,
@@ -52,7 +52,7 @@
     {
         "id": 7,
         "fieldName": "isSAPSupplier",
-        "name": "<p>Ya trabaja con la red SAP Ariba</p>",
+        "name": "<p>äääääää äääääää ääää äää äääää äääääää</p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -62,7 +62,7 @@
     {
         "id": 35,
         "fieldName": "position",
-        "name": "<p><strong>Comentarios de los proveedores sobre el plazo de pago</strong></p>",
+        "name": "<p><strong>ääääää ääääääää ää äääääää ääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -72,8 +72,8 @@
     {
         "id": 45,
         "fieldName": "null_1_",
-        "name": "nula(1)",
-        "description": "\"<p><strong><em>A continuación encontrará nuestros IncoTerms. Por favor, aporte sus comentarios si es necesario.</em></strong></p>\"",
+        "name": "ääää(1)",
+        "description": "\"<p><strong><em>äääää äää äää äääääääää. ääääää äääääää ääää ääääääää ää ääääää.</em></strong></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,
@@ -82,7 +82,7 @@
     {
         "id": 16,
         "fieldName": "accountType",
-        "name": "<p>Tipo de cuenta</p>",
+        "name": "<p>ääää ää äääääää</p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -95,7 +95,7 @@
     {
         "id": 41,
         "fieldName": "incoTerm1",
-        "name": "<p>IncoTerm</p>",
+        "name": "<p>ääääääää</p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -105,7 +105,7 @@
     {
         "id": 51,
         "fieldName": "paymentTerm",
-        "name": "Plazo de pago",
+        "name": "<p>äääääää ääää</p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -115,7 +115,7 @@
     {
         "id": 48,
         "fieldName": "incoTermComments",
-        "name": "<p><strong>Comentarios de los proveedores sobre IncoTerm</strong></p>",
+        "name": "<p><strong>ääääää ääääääää ää ääääääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -125,10 +125,10 @@
     {
         "id": 19,
         "fieldName": "sapContact",
-        "name": "<p>Datos de contacto de la persona responsable de SAP Ariba</p>",
+        "name": "<p>äääääää äääääää ää äää ääääää äääääääääää äää äää äääää</p>",
         "description": null,
         "helpText": null,
-        "listItemPrefix": "Contacto",
+        "listItemPrefix": "äääääää",
         "choices": null,
         "type": "field"
     },
@@ -136,7 +136,7 @@
         "id": 26,
         "fieldName": null,
         "name": null,
-        "description": "\"<p><strong>Nuestras condiciones de pago estándar son de 60 días.</strong></p><p><strong>Si se acordaran otras condiciones, éstas prevalecerán sobre nuestras condiciones de pago estándar.</strong></p>\"",
+        "description": "\"<p><strong>äää ääääääää äääääää äääää äää 60 ääää.</strong></p><p><strong>ää äääää äääää ääää ääääää, ääää ääääääää äää ääääääää äääääää äääää.</strong></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,

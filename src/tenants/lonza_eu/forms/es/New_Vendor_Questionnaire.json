@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "Condiciones generales de contratación y código de conducta_Chasing shadows in the twilight.",
+        "name": "äääääää ä&ä äää ääää ää äääääää_äääääää äääääää ää äää ääääääää.",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -12,7 +12,7 @@
     {
         "id": 1,
         "fieldName": null,
-        "name": "Por favor, responda a lo siguiente para ser considerado proveedor de Lonza",
+        "name": "ääääää ääääää äää äääääääää ää ää ääääääääää ää ä äääää ääääääää",
         "description": "",
         "helpText": null,
         "listItemPrefix": null,
@@ -22,7 +22,7 @@
     {
         "id": 12,
         "fieldName": null,
-        "name": "Condiciones generales Susurros del bosque milenario.",
+        "name": "äääääää äääää äää ääääääääää ääääääää ää äää äääääää ääääää.",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -32,7 +32,7 @@
     {
         "id": 19,
         "fieldName": null,
-        "name": "Código de conducta",
+        "name": "ääää ää äääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -43,7 +43,7 @@
         "id": 15,
         "fieldName": null,
         "name": null,
-        "description": "\"<p><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>A menos que se indique lo contrario en un acuerdo individual, se aplicarán las Condiciones Generales de Lonza correspondientes. Pueden solicitarse a Lonza o descargarse en </em></strong><em style=\\\"color: rgb(62, 68, 86);\\\">\"</em><a href=\\\"https://www.lonza.com/conditions\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\"><strong><em>Condiciones Generales</em></strong></a><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>\\\"</em></strong></p>\"",
+        "description": "\"<p><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>ääääää äääääääää ääääää ää ää ääääääääää äääääääää, äää ääääääää äääää äääääää äääää äää ääääääääää ääää äääää. äääää äää ää äääääääää ääää äääää ää ääääääääää äääää äää </em></strong><em style=\\\"color: rgb(62, 68, 86);\\\">“</em><a href=\\\"https://www.lonza.com/conditions\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\"><strong><em>äääääää äääää äää ääääääääää</em></strong></a><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>\\\"</em></strong></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,
@@ -57,7 +57,7 @@
         "helpText": null,
         "listItemPrefix": "",
         "choices": {
-            "Accept": "Acepte"
+            "Accept": "ääääää"
         },
         "type": "field"
     },
@@ -65,7 +65,7 @@
         "id": 22,
         "fieldName": null,
         "name": null,
-        "description": "\"<p><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>Reconozco y acepto que nuestra empresa cumplirá en todo momento \\\"</em></strong><a href=\\\"https://www.lonza.com/public/supplier-code-of-conduct\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\"><strong><em>el Código de conducta para proveedores de Lonza</em></strong></a><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>\\\"</em></strong></p>\"",
+        "description": "\"<p><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>ä äääääääääää äää äääää ääää äää äääääää ääää ää äää äääää ääääää ääää \\\"</em></strong><a href=\\\"https://www.lonza.com/public/supplier-code-of-conduct\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\"><strong><em>äääää'ä ääääääää ääää ää äääääää</em></strong></a><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>\\\"</em></strong></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,
@@ -74,19 +74,19 @@
     {
         "id": 25,
         "fieldName": "_p__br___p_",
-        "name": "N.º",
+        "name": "<p><br></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": "",
         "choices": {
-            "Accept": "Acepte"
+            "Accept": "ääääää"
         },
         "type": "field"
     },
     {
         "id": 4,
         "fieldName": "isGovernmentAgency",
-        "name": "<p><strong>¿Es su empresa un organismo público o es usted funcionario público, está estrechamente vinculado a un organismo público o funcionario público, o es propiedad de un organismo público o funcionario público?</strong>&nbsp;</p>",
+        "name": "<p><strong>ää ääää äääääää ä ääääääääää ääääää ää äää äää ä ääääääääää ääääääää, äääääää ääääääääää ääää ä ääääääääää ääääää ää ääääääää, ää äääää ää ä ääääääääää ääääää ää ääääääää?</strong>&ääää;</p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -96,7 +96,7 @@
     {
         "id": 7,
         "fieldName": "isCC3",
-        "name": "<p><strong>¿Actuará usted o su empresa en nombre de Lonza en asuntos como la venta de bienes o servicios de Lonza (como agente de ventas/distribuidor/comerciante)?</strong></p>",
+        "name": "<p><strong>ääää äää ää ääää äääääää ää ääääää ää ääääää ää äääää ää äääääää ääää ää äääääää ää äääää’ä äääää ää ääääääää (ää äääää äääää/äääääääääää/ääääää)?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -106,7 +106,7 @@
     {
         "id": 10,
         "fieldName": "isCC4",
-        "name": "<p><strong>¿Representará usted o su empresa la marca o los productos de Lonza o interactuará con otras personas en nombre de Lonza?</strong></p>",
+        "name": "<p><strong>ääää äää ää ääää äääääää ää ääääääääääää äääää’ä äääää ää ääääääää ää äääääääää äääääääääää ääää ääääää ää ääääää ää äääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
