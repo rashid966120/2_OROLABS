@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Erweitertes Buchungskreisprofil",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "accountPayableContact",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Ansprechpartner für die Debitorenbuchhaltung (AR)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "companyEntity",
+    "name": "Primäre Grünenthal Geschäftseinheit",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
