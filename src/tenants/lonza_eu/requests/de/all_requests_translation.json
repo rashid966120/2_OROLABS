@@ -1,25 +1,25 @@
 [
   {
     "id": "Supplier Light Screening Assessment",
-    "requestName": "Lieferant Light Screening",
-    "shortDescription": "Supplier Light Screening Bewertung",
+    "requestName": "Lieferant Light Screening German Update Version1",
+    "shortDescription": "Supplier Light Screening Bewertung  Update Version1",
     "stepTitles": {
-      "Matching Supplier(s)": "Passende(r) Lieferant(en)",
+      "Matching Supplier(s)": "Passende(r) Lieferant(en)  Update Version1",
       "Business Justification": "Geschäftliche Rechtfertigung",
-      "Review Process": "Überprüfungsprozess",
+      "Review Process": "Überprüfungsprozess  Update Version1",
       "Supplier": "Lieferant"
     },
     "engagementAttributes": null
   },
   {
     "id": "New Supplier Onboarding process",
-    "requestName": "Anfrage zum Onboarding von Lieferanten",
-    "shortDescription": "Antrag auf Einbindung neuer Lieferanten",
+    "requestName": "Anfrage zum Onboarding von Lieferanten  Update Version1",
+    "shortDescription": "Antrag auf Einbindung neuer Lieferanten Update Version1",
     "stepTitles": {
       "Procurement": "Beschaffung",
-      "Business Need": "Geschäftlicher Bedarf",
+      "Business Need": "Geschäftlicher Bedarf Update Version1",
       "Requester": "Antragsteller",
-      "Quality": "Qualität",
+      "Quality": "Qualität Update Version1",
       "Legal": "Rechtliches",
       "Review Process": "Überprüfungsprozess",
       "Supplier": "Lieferant",
