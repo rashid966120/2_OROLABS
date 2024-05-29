@@ -1,0 +1,132 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Compromisos de calidad de los proveedores",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Responda al Cuestionario de calidad para el proceso de cualificación",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 13,
+        "fieldName": "isWillingForQAgreement",
+        "name": "<p><strong>¿Está dispuesto a establecer un acuerdo de calidad si es necesario según los procesos de Lonza?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 9,
+        "fieldName": "isWillingForAudits",
+        "name": "<p><strong>¿Está dispuesto a permitir auditorías en caso necesario según los procesos de Lonza?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "qualityQuestionnaireContact",
+        "name": "<p><strong>Contacto para el cuestionario de conformidad de calidad</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contacto",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 15,
+        "fieldName": "qualityAgreementContact",
+        "name": "<p><strong>Contacto para el acuerdo de calidad</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contacto",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 18,
+        "fieldName": "complianceComments",
+        "name": "<p><strong>Comentarios (opcional) </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 25,
+        "fieldName": "willingForChangeNotifications",
+        "name": "<p><strong>¿Está dispuesto a proporcionar notificaciones de cambios a Lonza para productos / servicios vendidos a Lonza?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 27,
+        "fieldName": "changeNotificationComments",
+        "name": "<p><strong>Comentarios (opcional)    </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 22,
+        "fieldName": "q22__p__strong_Comments__Optional_",
+        "name": "<p><strong>Comentarios (opcional)   </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 20,
+        "fieldName": "auditComments",
+        "name": "<p><strong>Comentarios (opcional)  </strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 4,
+        "fieldName": "q4_isWillingToCompleteQuestionnai",
+        "name": "<p><strong>¿Está dispuesto a rellenar cuestionarios de cumplimiento si es necesario según los procesos de Lonza?</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 11,
+        "fieldName": "auditContacts",
+        "name": "<p><strong>Contacto para auditorías de conformidad</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Contacto",
+        "choices": null,
+        "type": "field"
+    }
+]
