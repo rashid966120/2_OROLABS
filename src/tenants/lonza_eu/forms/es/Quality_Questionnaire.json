@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "Compromisos de calidad de los proveedores",
+        "name": "ääääääää äääääää äääääääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -12,7 +12,7 @@
     {
         "id": 1,
         "fieldName": null,
-        "name": "Responda al Cuestionario de calidad para el proceso de cualificación",
+        "name": "ääääää ääääää äää äääääää äääääääääääää äää äääääääääääää äääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -22,7 +22,7 @@
     {
         "id": 13,
         "fieldName": "isWillingForQAgreement",
-        "name": "<p><strong>¿Está dispuesto a establecer un acuerdo de calidad si es necesario según los procesos de Lonza?</strong></p>",
+        "name": "<p><strong>äää äää äääääää ää äääääääää ä äääääää äääääääää ää ääääää äää äääää äääääääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -32,7 +32,7 @@
     {
         "id": 9,
         "fieldName": "isWillingForAudits",
-        "name": "<p><strong>¿Está dispuesto a permitir auditorías Susurros del bosque antiguo. si es necesario según los procesos de Lonza?</strong></p>",
+        "name": "<p><strong>äää äää äääääää ää äääää ääääää ääääääää ää äää äääääää ääääää. ää ääääää äää äääää äääääääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -42,27 +42,27 @@
     {
         "id": 7,
         "fieldName": "qualityQuestionnaireContact",
-        "name": "<p><strong>Contacto para el cuestionario de conformidad de calidad</strong></p>",
+        "name": "<p><strong>äääääää äää äääääääääääääääää äääääääääääää</strong></p>",
         "description": null,
         "helpText": null,
-        "listItemPrefix": "Contacto",
+        "listItemPrefix": "äääääää",
         "choices": null,
         "type": "field"
     },
     {
         "id": 15,
         "fieldName": "qualityAgreementContact",
-        "name": "<p><strong>Contacto para el acuerdo de calidad</strong></p>",
+        "name": "<p><strong>äääääää äää äääääää äääääääää</strong></p>",
         "description": null,
         "helpText": null,
-        "listItemPrefix": "Contacto",
+        "listItemPrefix": "äääääää",
         "choices": null,
         "type": "field"
     },
     {
         "id": 18,
         "fieldName": "complianceComments",
-        "name": "<p><strong>Comentarios (opcional) </strong></p>",
+        "name": "<p><strong>ääääääää (ääääääää) </strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -72,7 +72,7 @@
     {
         "id": 25,
         "fieldName": "willingForChangeNotifications",
-        "name": "<p><strong>¿Está dispuesto a proporcionar notificaciones de cambios a Lonza para productos / servicios vendidos a Lonza?</strong></p>",
+        "name": "<p><strong>äää äää äääääää ää äääääää ääääää äääääääääääää ää äääää äää ääääääää / ääääääää ääää ää äääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -82,7 +82,7 @@
     {
         "id": 27,
         "fieldName": "changeNotificationComments",
-        "name": "<p><strong>Comentarios (opcional)    </strong></p>",
+        "name": "<p><strong>ääääääää (ääääääää)    </strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -92,7 +92,7 @@
     {
         "id": 22,
         "fieldName": "q22__p__strong_Comments__Optional_",
-        "name": "<p><strong>Comentarios (opcional)   </strong></p>",
+        "name": "<p><strong>ääääääää (ääääääää)   </strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -102,7 +102,7 @@
     {
         "id": 20,
         "fieldName": "auditComments",
-        "name": "<p><strong>Comentarios (opcional)  </strong></p>",
+        "name": "<p><strong>ääääääää (ääääääää)  </strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -112,7 +112,7 @@
     {
         "id": 4,
         "fieldName": "q4_isWillingToCompleteQuestionnai",
-        "name": "<p><strong>¿Está dispuesto a rellenar cuestionarios de cumplimiento si es necesario según los procesos de Lonza?</strong></p>",
+        "name": "<p><strong>äää äää äääääää ää ääääääää ääääääääää ääääääääääääää ää ääääää äää äääää äääääääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -122,10 +122,10 @@
     {
         "id": 11,
         "fieldName": "auditContacts",
-        "name": "<p><strong>Contacto para auditorías de conformidad</strong></p>",
+        "name": "<p><strong>äääääää äää ääääääääää ääääää</strong></p>",
         "description": null,
         "helpText": null,
-        "listItemPrefix": "Contacto",
+        "listItemPrefix": "äääääää",
         "choices": null,
         "type": "field"
     }
