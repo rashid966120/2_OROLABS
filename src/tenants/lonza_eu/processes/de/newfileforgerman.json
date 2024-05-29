@@ -1,27 +1,27 @@
 [
   {
     "id": null,
-    "name": "Supplier Light Screening Assessment by ANDOVAR",
+    "name": "Supplier Light Screening Assessment by ANDOVAR Version2",
     "type": "processTitle"
   },
   {
     "id": 3,
-    "name": "Validating Email with ANDOVAR",
+    "name": "Validating Email with ANDOVAR Version2",
     "type": null
   },
   {
     "id": 4,
-    "name": "ANDOVAR Domain Validation Process",
+    "name": "ANDOVAR Domain Validation Process Version2",
     "type": null
   },
   {
     "id": 2,
-    "name": "Updating DUNS Number using ANDOVAR",
+    "name": "Updating DUNS Number using ANDOVAR Version2",
     "type": null
   },
   {
     "id": 5,
-    "name": "Obtaining D&B Score with ANDOVAR",
+    "name": "Obtaining D&B Score with ANDOVAR Version2",
     "type": null
   },
   {
