@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "TPDD-Ergebnis",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 5,
+    "fieldName": null,
+    "name": "Details zur Dokumentation des Anbieters",
+    "description": "Validierung des Lieferantennamens (Lieferantenidentifikation) gegenüber dem Namen des Bankkontoinhabers (Zahlungsinformationen), um bei Nichtübereinstimmung ein mittleres Risiko auszulösen. \nÜberprüfung des Landes des Lieferanten (Lieferantenidentifikation) im Vergleich zum Land des Bankkontos (Zahlungsinformationen), um ein mittleres Risiko auszulösen, wenn es nicht übereinstimmt. Diese werden herangezogen, um einen Eintrag im Formular für die Risikobewertung vorzunehmen. Dies geschieht über das Workato-Rezept.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": "invoiceCurrency",
+    "name": "<p>Währung der Rechnung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Risk_Level__p_",
+    "name": "Risikostufe",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "isVendorCountryMismatched",
+    "name": "<p>Stimmen das Land des Verkäufers (Formular Unternehmensinformationen) und das Land des Bankkontos (Formular Zahlungsinformationen) nicht überein?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "isVendorNameMismatched",
+    "name": "<p>Stimmen der Name des Lieferanten (Formular \"Unternehmensinformationen\") und der Name des Bankkontoinhabers (Formular \"Zahlungsinformationen\") nicht überein?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Details hinzufügen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 30,
+    "fieldName": "nextDueDilligenceDate",
+    "name": "TPDD-Ablaufdatum",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "tpddRequired",
+    "name": "<p>TPDD erforderlich</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "originalRiskLevel",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Berechneter Risiko-Score</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": "previousRiskLevel",
+    "name": "<p>Vorherige<span style=\"color: rgb(62, 68, 86);\"> Risikoscore</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "primaryCompanyEntity",
+    "name": "Primäre Geschäftseinheit",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 32,
+    "fieldName": "previousTPDDType",
+    "name": "Vorheriger TPDD-Typ",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "",
+      "Enhanced": "",
+      "ESG": "",
+      "None": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "tpddType",
+    "name": "<p>Berechnete TPDD Typ</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "",
+      "Enhanced": "",
+      "ESG": "",
+      "None": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": "changedTPDDType",
+    "name": "<p>Abgeschlossener TPDD-Typ</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "",
+      "Enhanced": "",
+      "ESG": ""
+    },
+    "type": "field"
+  }
+]

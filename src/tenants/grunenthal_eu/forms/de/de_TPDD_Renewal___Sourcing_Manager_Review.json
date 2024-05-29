@@ -1,0 +1,75 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "TPDD-Erneuerung _Überprüfung durch Beschaffungsmanager",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "Die erneute Due-Diligence Dritter (Third Party Due Diligence, TPDD) wurde für diesen Lieferanten eingeleitet, da die TPDD demnächst abläuft. Im Rahmen dieses Prozesses muss der Lieferant einen Fragebogen zur Due-Diligence Dritter ausfüllen. Es wird jedoch empfohlen, diesen Vorgang abzubrechen, wenn der Lieferant nicht für den Kauf von Dienstleistungen oder Waren verwendet werden soll.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p__span_style__color__rgb_62_",
+    "name": "Möchten Sie die TPDD-Erneuerung für diesen Lieferanten fortsetzen?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Deny": "",
+      "Approve": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Please_justify_your_answer_",
+    "name": "Bitte begründen Sie Ihre Antwort.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "Da Sie sich dafür entschieden haben, die TPDD-Erneuerung zu stoppen, wird die Beschaffungsstelle den Prozess weiter prüfen. Wenn Sie zu einem späteren Zeitpunkt wieder mit diesem Lieferanten zusammenarbeiten möchten, können Sie die TPDD-Erneuerung erneut manuell starten.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "tpddDenial",
+    "name": "TPDD abgelehnt (versteckt)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

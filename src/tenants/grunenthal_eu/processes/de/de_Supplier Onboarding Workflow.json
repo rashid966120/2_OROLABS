@@ -1,0 +1,77 @@
+[
+  {
+    "id": null,
+    "name": "Onboarding-Workflow für Lieferanten",
+    "type": "processTitle"
+  },
+  {
+    "id": 109,
+    "name": "Überprüfung der Beschaffungsstelle",
+    "type": null
+  },
+  {
+    "id": 136,
+    "name": "Antragsteller über Durchführung relevanter Schritte benachrichtigen",
+    "type": null
+  },
+  {
+    "id": 144,
+    "name": "Globales externes Beschaffungsteam über GxP-Prozess benachrichtigen",
+    "type": null
+  },
+  {
+    "id": 122,
+    "name": "Lieferantenfragebogen, Compliance-Prüfungen und Genehmigung der (nicht standardisierten) Zahlungsbedingung",
+    "type": null
+  },
+  {
+    "id": 120,
+    "name": "Due-Diligence-Prüfung durch Dritte",
+    "type": null
+  },
+  {
+    "id": 129,
+    "name": "Genehmigung nicht standardisierter Zahlungsbedingung",
+    "type": null
+  },
+  {
+    "id": 140,
+    "name": "IT-Bewertungsergebnisse",
+    "type": null
+  },
+  {
+    "id": 127,
+    "name": "Bestätigung des Antragstellers für andere Onboarding-Prozesse",
+    "type": null
+  },
+  {
+    "id": 162,
+    "name": "Onboarding von Lieferanten auf Eis gelegt, da Ergebnis der Bewertung der Informationssicherheit nicht genehmigt",
+    "type": null
+  },
+  {
+    "id": 163,
+    "name": "Zusammenfassung sammeln",
+    "type": null
+  },
+  {
+    "id": 164,
+    "name": null,
+    "type": null
+  },
+  {
+    "id": 155,
+    "name": "Überprüfung der Anbieterstammdaten",
+    "type": null
+  },
+  {
+    "id": 156,
+    "name": "Bestätigung der IT-Bewertung",
+    "type": null
+  },
+  {
+    "id": 56,
+    "name": "Erstellung des Anbieters ",
+    "type": null
+  }
+]

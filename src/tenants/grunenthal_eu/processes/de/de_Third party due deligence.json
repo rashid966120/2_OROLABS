@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "name": "Due-Deligence-Prüfung durch Dritte",
+    "type": "processTitle"
+  },
+  {
+    "id": 9,
+    "name": "Anwendbares Due-Diligence-Verfahren suchen",
+    "type": null
+  },
+  {
+    "id": 96,
+    "name": "Last Hauptkontakt",
+    "type": null
+  },
+  {
+    "id": 181,
+    "name": "Lieferantenfragebogen sammeln",
+    "type": null
+  },
+  {
+    "id": 168,
+    "name": "Sammeln von Lieferantendokumenten",
+    "type": null
+  },
+  {
+    "id": 157,
+    "name": "Sammeln von Lieferantendokumenten",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Sorgfaltspflicht und Risikobewertung",
+    "type": null
+  },
+  {
+    "id": 95,
+    "name": "Compliance-Genehmigung für riskante Lieferanten",
+    "type": null
+  },
+  {
+    "id": 38,
+    "name": "Antragsteller benachrichtigen, wenn das Risiko des Lieferanten hoch ist ",
+    "type": null
+  },
+  {
+    "id": 66,
+    "name": "Benachrichtigung der Beschaffungsstelle bei hohem Lieferantenrisiko  ",
+    "type": null
+  }
+]

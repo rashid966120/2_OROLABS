@@ -1,0 +1,17 @@
+[
+  {
+    "id": null,
+    "name": "Lieferanten-Updates",
+    "type": "processTitle"
+  },
+  {
+    "id": 4,
+    "name": "Überprüfung von Lieferanten-Updates",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Anbieter in Syniti anlegen",
+    "type": null
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": null,
+    "name": "Workflow der Lieferantenerweiterung",
+    "type": "processTitle"
+  },
+  {
+    "id": 37,
+    "name": "Elemente der Lastüberprüfung",
+    "type": null
+  },
+  {
+    "id": 47,
+    "name": "Kontakte laden",
+    "type": null
+  },
+  {
+    "id": 45,
+    "name": "Kontaktinformationen für Lieferanten",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Überprüfung der Beschaffungsstelle",
+    "type": null
+  },
+  {
+    "id": 32,
+    "name": "Prozess nicht standardisierter Zahlungsbedingung_Verlängerung",
+    "type": null
+  },
+  {
+    "id": 21,
+    "name": "Sammeln von Lieferantendokumenten",
+    "type": null
+  },
+  {
+    "id": 42,
+    "name": "Zahlungsdetails",
+    "type": null
+  },
+  {
+    "id": 49,
+    "name": "äääääää äääääää äää äääääääää",
+    "type": null
+  },
+  {
+    "id": 38,
+    "name": "Überprüfung der Lieferantendaten – Beschaffungsstelle",
+    "type": null
+  },
+  {
+    "id": 50,
+    "name": "Zusammenfassung sammeln",
+    "type": null
+  },
+  {
+    "id": 16,
+    "name": "Überprüfung der Anbieterstammdaten",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Anbieterverlängerung",
+    "type": null
+  }
+]

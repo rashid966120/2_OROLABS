@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "name": "Erstellung des Anbieters",
+    "type": "processTitle"
+  },
+  {
+    "id": 12,
+    "name": "Umgang mit Datenproblemen",
+    "type": null
+  },
+  {
+    "id": 15,
+    "name": "Aktualisierung des Anbieters in Syniti",
+    "type": null
+  },
+  {
+    "id": 14,
+    "name": "Anbieter in Syniti anlegen",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Anbieter in Syniti erweitern",
+    "type": null
+  },
+  {
+    "id": 19,
+    "name": "Lieferantenfortschreibung in der SAP-Bestätigung",
+    "type": null
+  },
+  {
+    "id": 18,
+    "name": "Vendor Update erfolgreich! ",
+    "type": null
+  },
+  {
+    "id": 13,
+    "name": "Vendor Update erfolgreich! ",
+    "type": null
+  }
+]

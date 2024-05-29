@@ -1,0 +1,22 @@
+[
+  {
+    "id": null,
+    "name": "Nicht standardisiertes Zahlungszielverfahren",
+    "type": "processTitle"
+  },
+  {
+    "id": 4,
+    "name": "Genehmigung nicht standardisierter Zahlungsbedingung",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "Leiter des Bereichs Beschaffung",
+    "type": null
+  },
+  {
+    "id": 9,
+    "name": "Leiter des Bereichs Rechnungsstellung",
+    "type": null
+  }
+]
