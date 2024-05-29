@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "Bewertung für VSCI-Anbieter - Lieferant German update",
+        "name": "ääääääääää äää ääää ääääää - ääääääää äääääää ääää  äääää ääääää ääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -22,10 +22,10 @@
     {
         "id": 4,
         "fieldName": "siteList",
-        "name": "<p><strong>German update Bitte laden Sie den/die erforderlichen Anhang/Anhänge herunter und laden Sie ihn/sie für jede Website hoch.</strong></p>",
+        "name": "<p><strong>ääääää ääääääää äää äääääääää ääääääääää(ä) äää ääääää ää ääää äääääää ääää ääää.</strong></p>",
         "description": null,
         "helpText": null,
-        "listItemPrefix": "Site",
+        "listItemPrefix": "ääää",
         "choices": null,
         "type": "field"
     }
