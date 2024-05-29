@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "TPDD Erneuerung_Überprüfung der Beschaffungsstelle",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Please_justify_your_answer_",
+    "name": "Bitte begründen Sie Ihre Antwort.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Do_you_want_to_proceed_with",
+    "name": "Möchten Sie mit der TPDD-Erneuerung fortfahren?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_TPDD_renewal_denied__Hidden",
+    "name": "TPDD-Erneuerung abgelehnt (versteckt)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "Da Sie sich dafür entschieden haben, den Vorgang zu stoppen, wird er nicht fortgesetzt. Bitte prüfen Sie, ob eine Anbietersperre erforderlich ist.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "q19__p_The_Sourcing_Manager_has_st",
+    "name": "Der Beschaffungsmanager hat die TPDD-Erneuerung für diesen Lieferanten mit der folgenden Begründung gestoppt.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
