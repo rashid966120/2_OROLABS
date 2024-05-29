@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "Evaluación para el proveedor VSCI - Proveedor Actualización de la carpeta local TEST",
+        "name": "ääääääääää äää ääää ääääää - ääääääää äääääää ääää  äääää ääääää ääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -22,10 +22,10 @@
     {
         "id": 4,
         "fieldName": "siteList",
-        "name": "<p><strong>Descargue los archivos adjuntos necesarios y cárguelos de nuevo en cada sitio.</strong></p>",
+        "name": "<p><strong>ääääää ääääääää äää äääääääää ääääääääää(ä) äää ääääää ää ääää äääääää ääää ääää.</strong></p>",
         "description": null,
         "helpText": null,
-        "listItemPrefix": "Sitio",
+        "listItemPrefix": "ääää",
         "choices": null,
         "type": "field"
     }
