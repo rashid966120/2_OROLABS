@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Überprüfung nicht standardisierter Zahlungsbedingung durch den Leiter des Beschaffungsbereichs",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p__span_style__color__rgb_87_",
+    "name": "Vom Antragsteller angegebener Grund für nicht standardisierte Zahlungsbedingung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p__span_style__color__rgb_62_",
+    "name": "Nicht standardisierte Zahlungsbedingung angefordert.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Payment_term_chosen__p_",
+    "name": "Vorgeschlagene Zahlungsbedingung (Beschaffung)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "Anmerkung: Wenn die Zahlungsbedingung nicht genehmigt werden kann, kann der Antrag an die Beschaffungsstelle zurückgeschickt werden, um die Zahlungsbedingung zu aktualisieren, indem Sie unten auf Informationen anfordern klicken und Beschaffung auswählen.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
