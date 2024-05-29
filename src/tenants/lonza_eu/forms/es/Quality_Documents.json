@@ -1,0 +1,72 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Documentos de calidad para firmar",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 37,
+        "fieldName": null,
+        "name": null,
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Por favor, descargue los documentos adjuntos, rellene los datos necesarios y vuelva a subir el documento firmado.</em></strong></p>\"",
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 31,
+        "fieldName": "signedDocs",
+        "name": "<p><strong>Cargar documentos firmados</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 42,
+        "fieldName": "localForm",
+        "name": "<p><strong>Descargar el formulario de cualificación local</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 44,
+        "fieldName": "clientqualificationdoc",
+        "name": "<p><strong>Descargar el formulario de cualificación de clientes</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 40,
+        "fieldName": "scdForm",
+        "name": "<p><strong>Descargar el formulario de declaración de la cadena de suministro</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    }
+]
