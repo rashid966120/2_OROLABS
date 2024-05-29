@@ -1,19 +1,19 @@
 [
   {
     "id": "Supplier Light Screening Assessment",
-    "requestName": "Proveedor Cribado ligero  Update Version 2",
-    "shortDescription": "Evaluación de la luz de los proveedores  Update Version 2",
+    "requestName": "Proveedor Cribado ligero",
+    "shortDescription": "Actualización de la carpeta local de Supplier Light Screening Assessment",
     "stepTitles": {
-      "Matching Supplier(s)": "Proveedor(es) correspondiente(s) Update Version 2",
-      "Business Justification": "Justificación empresarial",
+      "Matching Supplier(s)": "Proveedor(es) correspondiente(s)",
+      "Business Justification": "Justificación empresarial Caminando por un sendero iluminado por la luna. actualización de la carpeta local",
       "Review Process": "Proceso de revisión",
-      "Supplier": "Proveedor"
+      "Supplier": "Proveedor El latido de la ciudad."
     },
     "engagementAttributes": null
   },
   {
     "id": "New Supplier Onboarding process",
-    "requestName": "Solicitud de incorporación de proveedores  Update Version 2",
+    "requestName": "Solicitud de incorporación de proveedores",
     "shortDescription": "Solicitud de incorporación de nuevos proveedores",
     "stepTitles": {
       "Procurement": "Adquisiciones",
