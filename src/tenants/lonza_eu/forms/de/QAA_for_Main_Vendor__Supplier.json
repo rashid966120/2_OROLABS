@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "QAA für Hauptlieferant -Lieferant",
+        "name": "äää äää ääää ääääää -ääääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -22,13 +22,13 @@
     {
         "id": 4,
         "fieldName": "agreementType",
-        "name": "<p><strong>Welche Art von Vereinbarung ist für die volle Qualifikation erforderlich?</strong></p>",
+        "name": "<p><strong>ääää ää äääääääää ääääääää äää ääää äääääääääääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
         "choices": {
-            "QAA": "QAA",
-            "SCL": "SCL"
+            "QAA": "äää",
+            "SCL": "äää"
         },
         "type": "field"
     },
@@ -36,7 +36,7 @@
         "id": 25,
         "fieldName": "qaawarning",
         "name": null,
-        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Für diesen Anbieter ist kein QAA erforderlich.</em></strong></p>\"",
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>ää äää ääääää äää ääää ääääää.</em></strong></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,
@@ -45,7 +45,7 @@
     {
         "id": 22,
         "fieldName": "isQAARequired",
-        "name": "<p>iS QAA erforderlich</p>",
+        "name": "<p>ää äää ääääääää</p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -56,7 +56,7 @@
         "id": 34,
         "fieldName": "helpTextPreSCL",
         "name": null,
-        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Aufgrund der kurzen Zeitspanne bis zur Auftragserteilung bitten wir Sie, das beigefügte Dokument als vorläufige vereinfachte Qualitätsvereinbarung zu unterzeichnen. Sobald diese unterschrieben ist (wet inc oder e-signature), werden die Verhandlungen über die vollständige Qualitätsvereinbarung aufgenommen.</em></strong></p><p><br></p>\"",
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>äää ää äää äääää ääää ääääää äääää äää äääää ääää ää ääääää, ääääää ääää äää ääääääää ääääääää ää ä äääääääääää ääääääääää äääääää äääääääää. ää ääää ää ääää ää ääääää (äää äää ää ä-äääääääää), ääääääääääää äää äää ääää äääääää äääääääää ääää ää ääääääää.</em></strong></p><p><br></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,
@@ -65,8 +65,8 @@
     {
         "id": 36,
         "fieldName": "helpTextFullQAA",
-        "name": "null(1)",
-        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Die beigefügte Vereinbarung muss spätestens zu dem oben genannten Datum vollständig unterzeichnet sein. Wenn Sie diesen Zeitplan nicht einhalten können, teilen Sie uns dies bitte umgehend mit.</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Bitte senden Sie uns die Word-Datei mit den aktiven Änderungsspuren nach der Verhandlung zurück, damit wir den Unterzeichnungsprozess einleiten können.</em></strong></p>\"",
+        "name": "ääää(1)",
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>äää ääääääää äääääääää ääää ää äääää ääääää ää äää ääääää ää äää ääää äääääääää äääää. ää äää ääää ääää ääää ääääääää, ääääää äääääääääää äää ää ääää. &ääää;</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>ääääää ääääää äää ääää ääää ä äääää äääääää ääääää äääää äääääääääää ää ää äää ääääää äääääääää äääääää.</em></strong></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,
@@ -75,33 +75,33 @@
     {
         "id": 31,
         "fieldName": "fullQAAorPreSCL",
-        "name": "<p><strong>Werden Sie direkt mit der QAA beginnen (mindestens 10 Wochen erforderlich) oder den SCL-Vorlauf starten:</strong></p>",
+        "name": "<p><strong>ääää äää ääääääää äääää ääää äää (ää äääää 10 äääää ääääääää) ää ääääää äää äääääääääää:</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
         "choices": {
-            "Full QAA": "Vollständige QAA",
-            "Preliminary SCL": "Vorläufige SCL"
+            "Full QAA": "ääää äää",
+            "Preliminary SCL": "äääääääääää äää"
         },
         "type": "field"
     },
     {
         "id": 16,
         "fieldName": "negotiationBy",
-        "name": "<p><strong>Verhandlung durch Site QA oder GQCSC?</strong></p>",
+        "name": "<p><strong>äääääääääää ää ääää ää ää äääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
         "choices": {
-            "Agreement negotiated by Site": "Von der Website ausgehandelte Vereinbarung",
-            "Agreement negotiated by GQCSC": "Von der GQCSC ausgehandelte Vereinbarung"
+            "Agreement negotiated by Site": "äääääääää ääääääääää ää ääää",
+            "Agreement negotiated by GQCSC": "äääääääää ääääääääää ää äääää"
         },
         "type": "field"
     },
     {
         "id": 19,
         "fieldName": "agreementAssignee",
-        "name": "<p><strong>Empfänger der Vereinbarung GQCSC</strong></p>",
+        "name": "<p><strong>äääääääää ääääääää äääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -111,21 +111,21 @@
     {
         "id": 7,
         "fieldName": "q7__p__strong_Are_there_at_least_",
-        "name": "<p><strong>Voraussichtlicher Zeitraum, bis die Bestellung aufgegeben werden muss:</strong></p>",
+        "name": "<p><strong>äääääääää ääääääää äääää ää ääää ää ääääää:</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
         "choices": {
-            "> 6 months": "> 6 Monate",
-            "< 3 months": "< 3 Monate",
-            "3 to 6 months": "3 bis 6 Monate"
+            "> 6 months": "> 6 ääääää",
+            "< 3 months": "< 3 ääääää",
+            "3 to 6 months": "3 ää 6 ääääää"
         },
         "type": "field"
     },
     {
         "id": 28,
         "fieldName": "latestDateForQualityAgreement",
-        "name": "<p><strong>Spätester Termin, bis zu dem die Qualitätsvereinbarung vollständig unterzeichnet sein muss (in der Regel etwa 2 Wochen vor dem voraussichtlichen Bestelldatum)</strong></p>",
+        "name": "<p><strong>ääääää ääää ää ääää äää äääääää äääääääää ääää ää äääää ääääää (äääääää äääää 2 äääää ääääää ääääääää ää ääää)</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -135,7 +135,7 @@
     {
         "id": 10,
         "fieldName": "agreementTemplate",
-        "name": "<p><strong>Bitte laden Sie die vorausgefüllte(n) Vertragsvorlage(n) herunter</strong></p>",
+        "name": "<p><strong>ääääää ääääääää äää äää-ääääää äääääääää ääääääää(ä)</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -145,7 +145,7 @@
     {
         "id": 38,
         "fieldName": "agreementTemplateSupplier",
-        "name": "<p><strong>Bitte laden Sie die vorausgefüllte(n) Vertragsvorlage(n) hoch   </strong></p>",
+        "name": "<p><strong>ääääää ääääää äää äää-ääääää äääääääää ääääääää(ä)   </strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -155,7 +155,7 @@
     {
         "id": 13,
         "fieldName": "sclTemplate",
-        "name": "<p><strong>Bitte laden Sie die vorausgefüllte SCL-Vorlage herunter</strong></p>",
+        "name": "<p><strong>ääääää ääääääää äää äää-ääääää äää ääääääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -165,7 +165,7 @@
     {
         "id": 40,
         "fieldName": "scltemplateSupplier",
-        "name": "<p><strong>Bitte laden Sie die vorausgefüllte SCL-Vorlage hoch  </strong></p>",
+        "name": "<p><strong>ääääää ääääää äää äää-ääääää äää ääääääää  </strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
