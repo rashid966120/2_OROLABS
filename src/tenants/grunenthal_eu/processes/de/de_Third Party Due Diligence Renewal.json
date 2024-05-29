@@ -1,0 +1,97 @@
+[
+  {
+    "id": null,
+    "name": "Erneuerung der Due-Diligence-Prüfung von Dritten",
+    "type": "processTitle"
+  },
+  {
+    "id": 2,
+    "name": "Lieferantendaten abrufen",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Überprüfung des Beschaffungsmanagers",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Überprüfung der Beschaffungsstelle",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "Benachrichtigung über TPDD-Genehmigung",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "An Beschaffungsmanager ",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "An Antragsteller ",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Anwendbare TPDD suchen",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "Unternehmensinformationen und Due-Diligence-Prüfung Dritter",
+    "type": null
+  },
+  {
+    "id": 13,
+    "name": "Zahlungsdetails",
+    "type": null
+  },
+  {
+    "id": 15,
+    "name": "Aktionärsinformationen",
+    "type": null
+  },
+  {
+    "id": 17,
+    "name": "Kontaktdetails",
+    "type": null
+  },
+  {
+    "id": 19,
+    "name": "Fragebogen zur Due-Diligence-Prüfung Dritter",
+    "type": null
+  },
+  {
+    "id": 21,
+    "name": "Erklärung",
+    "type": null
+  },
+  {
+    "id": 22,
+    "name": "Sorgfaltspflicht und Risikobewertung",
+    "type": null
+  },
+  {
+    "id": 23,
+    "name": "Umgang mit Lieferanten mit hohem_mittlerem Risiko",
+    "type": null
+  },
+  {
+    "id": 24,
+    "name": "Anbieter sperren",
+    "type": null
+  },
+  {
+    "id": 25,
+    "name": "Überprüfung der Anbieterstammdaten",
+    "type": null
+  },
+  {
+    "id": 26,
+    "name": "Bewertungsdatensatz in Syniti aktualisieren ",
+    "type": null
+  }
+]
