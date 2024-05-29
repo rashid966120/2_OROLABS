@@ -1,0 +1,202 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Anbieterdetails",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Sonstige Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": "Einzelheiten zur Zahlungsbedingung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": null,
+    "name": "Bankverbindung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 52,
+    "fieldName": null,
+    "name": null,
+    "description": "Anmerkung: „Sonstige\" (nicht standardisierte Zahlungsbedingungen) bedürfen der Genehmigung durch den Leiter des Beschaffungsbereichs/Leiter der Kreditorenbuchhaltung.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "primaryCategory",
+    "name": "Kategorie der vom Anbieter angebotenen Dienstleistung (vorausgefüllt)",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(68, 68, 68);\">ääääääää ääääääää ää ääää äää äääääää ääääää  äääää ääää äää ääääääää</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": null,
+    "name": null,
+    "description": "Anmerkung: Dem Lieferanten würden die Formulare zur Aktualisierung der Bankdaten zugesandt werden.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 81,
+    "fieldName": null,
+    "name": null,
+    "description": "Anmerkung: Sie haben die Möglichkeit, die Angaben zu überprüfen/zu aktualisieren, nachdem Sie</p> eingereicht haben.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 78,
+    "fieldName": "q78__p_Would_you_like_to_review_up",
+    "name": "<p>Möchten Sie die Kontaktdaten des Anbieters überprüfen/aktualisieren?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 67,
+    "fieldName": "tpddExpired",
+    "name": "TPDD abgelaufen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "isBankDetailsFromRequestor",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Müssen die Bankdaten des Verkäufers aktualisiert werden?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 46,
+    "fieldName": "paymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bestehende Zahlungsfrist</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 86,
+    "fieldName": "isStandardPaymentTerm",
+    "name": "<p>Ich möchte eine Standard-Zahlungsbedingung verwenden</p><p><u>Hinweis</u>: „Sonstige\" (nicht standardisierte Zahlungsbedingungen) bedürfen der Genehmigung durch den Leiter des Beschaffungsbereichs/Leiter der Kreditorenbuchhaltung.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "nonStandardPaymentTerm",
+    "name": "Geben Sie die entsprechende Zahlungsbedingung ein",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "nonStandardPaymentTermReason",
+    "name": "Was ist der Grund für die Wahl einer nicht standardisierten Zahlungsbedingung?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 89,
+    "fieldName": "nonStandardPTYes",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Standard Ja für NonStandardPaymentTerm</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 92,
+    "fieldName": "nonStandardPTNo",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Standard Nr. für NonStandardPaymentTerm</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 49,
+    "fieldName": "requesterPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Wählen Sie die entsprechende Zahlungsfrist für die von Ihnen angeforderten Buchungskreise aus.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "tpddExpirationDate",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">TPDD Verfallsdatum</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "currency",
+    "name": "Wählen Sie die Währung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
