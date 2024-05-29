@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "name": "Evaluación de proveedores de ANDOVAR",
+    "type": "processTitle"
+  },
+  {
+    "id": 3,
+    "name": "Validación del correo electrónico ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Validación del dominio ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Actualización del número DUNS ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "Obtener puntuación D&B ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Calificación de riesgos personalizada con ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "ANDOVAR Light Screening Review",
+    "type": null
+  },
+  {
+    "id": 8,
+    "name": "Actualización del estado del proveedor ANDOVAR",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Resultados de ANDOVAR del análisis ESG de proveedores potenciales",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "ANDOVAR Examen financiero",
+    "type": null
+  }
+]
