@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "Beurteilung für Hauptlieferant - Lieferant German update",
+        "name": "ääääääääää äää ääää ääääää - ääääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -12,7 +12,7 @@
     {
         "id": 1,
         "fieldName": null,
-        "name": "Bewertung German update",
+        "name": "ääääääääää",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -23,7 +23,7 @@
         "id": 55,
         "fieldName": "noAssessmentWarning",
         "name": null,
-        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Für diesen Anbieter ist keine Bewertung erforderlich.</em></strong></p>\"",
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>ää ääääääääää ääääää äää ääää ääääää.</em></strong></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,
@@ -32,7 +32,7 @@
     {
         "id": 50,
         "fieldName": "_p_Is_Assessment_Required__p_",
-        "name": "<p>Ist eine Bewertung erforderlich? German update</p>",
+        "name": "<p>ää ääääääääää ääääääää</p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -42,20 +42,20 @@
     {
         "id": 7,
         "fieldName": "auditType",
-        "name": "<p><strong>Was ist die Art der Prüfung?</strong></p>",
+        "name": "<p><strong>ääää ää äää äääää ääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
         "choices": {
-            "OnSite": "OnSite",
-            "Remote": "Fernbedienung"
+            "OnSite": "ääääää",
+            "Remote": "ääääää"
         },
         "type": "field"
     },
     {
         "id": 10,
         "fieldName": "noOfAuditDays",
-        "name": "<p><strong>Anzahl der erforderlichen Prüfungstage?</strong></p>",
+        "name": "<p><strong>ääääää ää äääää ääää ääääääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -65,7 +65,7 @@
     {
         "id": 12,
         "fieldName": "noOfAuditors",
-        "name": "<p><strong>Anzahl der erforderlichen Prüfer?</strong></p>",
+        "name": "<p><strong>ääääää ää ääääääää ääääääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -75,7 +75,7 @@
     {
         "id": 25,
         "fieldName": "assessmentAssignee",
-        "name": "<p><strong>Bitte geben Sie die E-Mail-Adresse des Lonza-Mitarbeiters an, der mit der Bewertung des Lieferanten beauftragt ist.</strong></p>",
+        "name": "<p><strong>ääääää äääääää äääää ää äääää ääääääää ääääääää ää äääääää ääääääääää ää äää ääääääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -85,20 +85,20 @@
     {
         "id": 4,
         "fieldName": "assessmentType",
-        "name": "<p><strong>Ist eine Bewertung für die volle Qualifikation erforderlich?</strong></p>",
+        "name": "<p><strong>ääääääääää äääääääääää ääääääää äää ääää äääääääääääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
         "choices": {
-            "Onsite/Remote": "Vor Ort/Remote",
-            "Paper": "Papier"
+            "Onsite/Remote": "ääääää/ääääää",
+            "Paper": "äääää"
         },
         "type": "field"
     },
     {
         "id": 72,
         "fieldName": "datesForAudit",
-        "name": "<p><strong>Bitte schlagen Sie bis zu drei verschiedene Termine für das Audit vor</strong></p>",
+        "name": "<p><strong>ääääää äääääää ää ää äääää äääääääää äääää äää äää äääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -108,7 +108,7 @@
     {
         "id": 52,
         "fieldName": "q52__p__strong_Requested_latest_da",
-        "name": "<p><strong>Gewünschtes spätestes Datum für die Abgabe der Bestellung</strong></p>",
+        "name": "<p><strong>äääääääää ääääää ääää äää äääääää ää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -118,22 +118,22 @@
     {
         "id": 15,
         "fieldName": "latestDateForAudit",
-        "name": "<p><strong>Wann ist der letzte Termin für die Prüfung?</strong></p>",
+        "name": "<p><strong>ääää ää äää ääääää ääää äää äää äääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
         "choices": {
-            "> 6 months": "> 6 Monate",
-            "< 3 months": "< 3 Monate",
-            "3 to 6 months": "3 bis 6 Monate"
+            "> 6 months": "> 6 ääääää",
+            "< 3 months": "< 3 ääääää",
+            "3 to 6 months": "3 ää 6 ääääää"
         },
         "type": "field"
     },
     {
         "id": 66,
         "fieldName": "helpTextForGreaterThan",
-        "name": "null(1)",
-        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Lonza wird eine Vor-Ort-/Fernbeurteilung Ihrer Anlage mit den oben genannten Auditoren für die genannten Tage durchführen müssen. Wenn Sie diese Prüfung bis spätestens zum oben angegebenen Datum durchführen können, brauchen Sie nur die als \"obligatorisch\" gekennzeichneten Anhänge auszufüllen; andernfalls müssen Sie auch die zusätzlichen Fragebögen ausfüllen.</strong></p>\"",
+        "name": "ääää(1)",
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">äääää ääää ääää ää äääääää ä ääääää/ääääää ääääääääää ää ääää ääääääää ääää äää äääää äääääääää ääääääää äää äääääääää ääää. ää äää äää ääää ääää äääää ää äää ääääää ää äää ääää äääää äääää, äää ääää ääää ää ääääääää äää äääääääääää ääääää ää “äääääääää”; äääääääää äää ääää ääää ääää ää ääääääää äää ääääääääää ääääääääääääää.&ääää;</strong></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,
@@ -143,7 +143,7 @@
         "id": 64,
         "fieldName": null,
         "name": null,
-        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Bitte füllen Sie alle beigefügten Fragebögen aus.</strong></p>\"",
+        "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">ääääää ääääääää äää ääääääääääääää ääääääää.</strong></p>\"",
         "helpText": null,
         "listItemPrefix": null,
         "choices": null,
@@ -152,7 +152,7 @@
     {
         "id": 69,
         "fieldName": "willSetupAudit",
-        "name": "<p><strong>Werden Sie in der Lage sein, das Audit in der gewählten Zeitspanne durchzuführen?</strong></p>",
+        "name": "<p><strong>ääää äää ää ääää ää ääää äää äääää ää äää ääääääää ääääääää?</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -162,7 +162,7 @@
     {
         "id": 18,
         "fieldName": "mandatoryAuditQuestionnaires",
-        "name": "<p><strong>Download der obligatorischen Fragebögen (zur Prüfungsvorbereitung)</strong></p>",
+        "name": "<p><strong>ääääääää äää äääääääää ääääääääääääää (äää äääää äääääääääää)</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -172,7 +172,7 @@
     {
         "id": 74,
         "fieldName": "mandQuest",
-        "name": "<p><strong>Hochladen der obligatorischen Fragebögen (zur Prüfungsvorbereitung)   </strong></p>",
+        "name": "<p><strong>ääääää äää äääääääää ääääääääääääää (äää äääää äääääääääää)   </strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -182,7 +182,7 @@
     {
         "id": 20,
         "fieldName": "additionalAuditQuestionnaires",
-        "name": "<p><strong>Download der zusätzlichen Fragebögen (falls vorhanden)</strong></p>",
+        "name": "<p><strong>ääääääää äää ääääääääää ääääääääääääää(ää äää)</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -192,7 +192,7 @@
     {
         "id": 76,
         "fieldName": "addQuest",
-        "name": "<p><strong>Hochladen der zusätzlichen Fragebögen (falls vorhanden)   </strong></p>",
+        "name": "<p><strong>ääääää äää ääääääääää ääääääääääääää(ää äää)   </strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -202,7 +202,7 @@
     {
         "id": 22,
         "fieldName": "questionnairesToComplete",
-        "name": "<p><strong>Laden Sie die Fragebögen herunter, die Sie ausfüllen müssen</strong></p>",
+        "name": "<p><strong>ääääääää äää ääääääääääääää ääääääää ää ääääääää</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -212,7 +212,7 @@
     {
         "id": 78,
         "fieldName": "questTocomplete",
-        "name": "<p><strong>Hochladen der Fragebögen, die zum Ausfüllen benötigt werden  </strong></p>",
+        "name": "<p><strong>ääääää äää ääääääääääääää ääääääää ää ääääääää  </strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
