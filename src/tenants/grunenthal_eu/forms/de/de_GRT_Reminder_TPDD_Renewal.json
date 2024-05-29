@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "GRT_Reminder TPDD Erneuerung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "emailSubject",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailBody",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailAnleitung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailFooter",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "Grünenthal: Erinnerung an den Abschluss der Due Diligence-Prüfung",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Wie man auf ORO zugreift</h3><p>Wenn Sie auf \\\"Get Started\\\" klicken, werden Sie zu ORO&nbsp;umgeleitet und eine automatische E-Mail mit einem einmaligen Passwort wird an Ihren Posteingang gesendet. Verifizieren Sie Ihre E-Mail-Adresse, um Zugang zum Grünenthal Business Partner Collaboration Hub zu erhalten. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Fill &amp; Submit the forms</h3><p>Hier finden Sie eine Liste von Formularen, die ausgefüllt werden müssen. Geben Sie die erforderlichen Informationen an und reichen Sie sie ein. Bei Bedarf können Sie andere Kollegen von ${supplierName} einladen, die Formulare in Ihrem Namen auszufüllen.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Unterstützung benötigt?</h3><p>Falls Sie Unterstützung beim Ausfüllen der Formulare benötigen, können Sie diese direkt im Tool über die Schaltfläche \"Informationen anfordern\" anfordern. Sie können sich auch per E-Mail an<a href=\\\"http://suppliermanagement@procurement.grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\">suppliermanagement@procurement.grunenthal.com</a>&nbsp;wenden, wenn Sie weitere Hilfe benötigen.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Vielen Dank für Ihre Mitarbeit!</p><p><br></p><p>Mit freundlichen Grüßen,</p><p>${requester}</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(255, 255, 255);\\\">Grünenthal Einladung:</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Sehr geehrte ${supplierContactName},</p><p><br></p><p>Wir möchten Sie an die anstehende Grünenthal Third-Party Due Diligence für ${supplierName} erinnern. Ihre Teilnahme ist für die Aufrechterhaltung der Integrität und Compliance unserer Geschäftsbeziehung unerlässlich.</p><p><br></p><p>Um die erforderlichen Schritte auszuführen, füllen Sie bitte so bald wie möglich unseren Online-Fragebogen zur Sorgfaltspflicht aus. Dieser Prozess ist entscheidend für die Überprüfung potenzieller ethischer oder Reputationsrisiken und die Einhaltung aller relevanten Vorschriften.</p><p><br></p><p>Grünenthal verwendet&nbsp;ORO, eine sichere Technologie von ORO Labs, für die Durchführung der Due-Diligence-Prüfung von Dritten. Ihre prompte Antwort wird uns sehr dabei helfen, die hohen Standards, die wir an unsere Zusammenarbeit stellen, aufrechtzuerhalten.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
