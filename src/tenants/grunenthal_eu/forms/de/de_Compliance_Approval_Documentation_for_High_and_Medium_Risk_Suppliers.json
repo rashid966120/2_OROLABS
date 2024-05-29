@@ -1,0 +1,202 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "ääääääääää ääääääää äääääääääääää",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 60,
+    "fieldName": null,
+    "name": "ääääääää ääää äääää",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "ääää ääää ääääää äääääääääääää",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": "ääääää ääää ääääää äääääääääääää",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>ääääää ääää äää äääääääää ää <strong style=\\\"color: rgb(230, 0, 0);\\\">ääää ääää</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "q14__p_Would_you_like_to_approve_t",
+    "name": "<p>äääää äää ääää ää äääääää äää ääääääääää ää ääää <strong style=\"color: rgb(230, 0, 0);\">ääää ääää</strong><span style=\"color: rgb(230, 0, 0);\"> </span>ääääää?</p><p><span style=\"color: rgb(136, 136, 136);\">ääää : äää äää ääääääää ää äää äääääääääääää ää äääääää.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "ääääää",
+      "Approve": "äääääää"
+    },
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "null_1_",
+    "name": "ääää(1)",
+    "description": "\"<p>ääääää ääää äää äääääääää ää <strong style=\\\"color: rgb(255, 153, 0);\\\">ääääää ääää</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 35,
+    "fieldName": "q35__p_Medium_risk_vendor_denied__",
+    "name": "<p>ääääää ääää ääääää ääääää (ääääää)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "q38__p_High_risk_vendor_denied__hi",
+    "name": "<p>ääää ääää ääääää ääääää (ääääää)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 59,
+    "fieldName": "null_2_",
+    "name": "ääää(2)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">ääää ääääääää ääääääääää äääääää ääää ääää ääää. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Please_add_Documentation_of",
+    "name": "<p>ääääää äää äääääääääääää ää ääääääää.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">ääää ääääääää ääääääääää äääääää ääää ääää ääää. äää äää äääää 'ä' ääää äää äääää ääääää, äää ääää äääää 'ääää'!</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "q12__p_Would_you_like_to_approve_t",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">äääää äää ääää ää äääääää äää ääääääääää ää ääää </span><span style=\"color: rgb(230, 0, 0);\">ääääää ääää </span>ääääää<span style=\"color: rgb(62, 68, 86);\">?</span></p><p><span style=\"color: rgb(136, 136, 136);\">ääää : äää äää ääääääää ää ääääää äää äääääääääääää ää ääääääää ää äääääää.</span></p>",
+    "description": "ääää",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "ääääää",
+      "Approve": "äääääää"
+    },
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "_p_Please_justify__p_",
+    "name": "<p>ääääää äääääää</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "_p_Please_justify___p_",
+    "name": "<p>ääääää äääääää!</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "q74__p_Please_select_the_appropria",
+    "name": "<p>ääääää ääääää äää äääääääääää </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Please apply additional mitigation measures": "ääääää äääää ääääääääää ääääääääää ääääääää",
+      "Please ask vendor to sign the Grünenthal Code of Conduct": "ääääää äää ääääää ää ääää äää ääääääääää ääää ää äääääää",
+      "Please use Grünenthal contract template": "ääääää äää ääääääääää ääääääää ääääääää"
+    },
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "_p_Comments__p_",
+    "name": "<p>ääääää äääääää äääääää ää ääääääääää ääääääääää ääääääää.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 76,
+    "fieldName": "_p_Please_clarify___p_",
+    "name": "<p>ääääää äääääää!</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "originalRiskScore",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">ääääääää ääää äääää</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

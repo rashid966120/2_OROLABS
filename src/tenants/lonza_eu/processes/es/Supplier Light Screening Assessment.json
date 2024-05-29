@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "name": "Evaluación de la luz de los proveedores Spanish Update",
+    "type": "processTitle"
+  },
+  {
+    "id": 3,
+    "name": "Validación de correo electrónico Spanish Update",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Validación de dominios",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Actualizar el número DUNS",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "Obtener puntuación D&B",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Calificación de riesgos personalizada",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "Revisión de Light Screening",
+    "type": null
+  },
+  {
+    "id": 8,
+    "name": "Actualizar estado del proveedor",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Resultados de la selección ESG de proveedores potenciales",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "Control financiero",
+    "type": null
+  }
+]

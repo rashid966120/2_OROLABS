@@ -1,0 +1,229 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Due-Diligence-Prüfung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Angewandtes Verfahren für Due-Diligence-Prüfung Dritter",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": null,
+    "name": "Negativnachrichten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 82,
+    "fieldName": null,
+    "name": "Kommentare",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "Währung des Anbieters",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 85,
+    "fieldName": null,
+    "name": null,
+    "description": "Anmerkung: Bitte fügen Sie Ihre Kommentare in Bezug auf Negativnachrichten hinzu (falls zutreffend)",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "tpddNone",
+    "name": "null(2)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Für diesen Anbieter wurde aufgrund der Angaben keine Due Diligence-Prüfung durch Dritte</strong><strong style=\\\"color: rgb(102, 185, 102);\\\"> </strong> durchgeführt.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 101,
+    "fieldName": "tpddType",
+    "name": "Wenn Einfach in Erweitert geändert wird, TPDDType(hidden) ändern",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Enhanced": "Erweitert"
+    },
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "tpddLight",
+    "name": "null(1)(1)",
+    "description": "Die einfache Due-Diligence-Prüfung Dritter  wurde auf der Grundlage der Angaben auf diesen Anbieter angewandt.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 107,
+    "fieldName": "tpddEnhanced",
+    "name": "null(1)",
+    "description": "Die erweiterte Due-Diligence-Prüfung Dritter wurde auf der Grundlage der Angaben auf diesen Anbieter angewandt",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": "tpddESG",
+    "name": "null(1)",
+    "description": "Due-Diligence-Prüfung Dritter bzgl. Umwelt, Soziales und Unternehmensführung wurde auf der Grundlage der Angaben auf diesen Anbieter angewandt",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 111,
+    "fieldName": "tpddLightToEnhanced",
+    "name": "null(1)",
+    "description": "Anmerkung: Die einfache Due-Diligence-Prüfung Dritter wurde auf der Grundlage der Antworten des Anbieterfragebogens in eine erweiterte Due-Diligence-Prüfung Dritter geändert.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 113,
+    "fieldName": "adverseMediaMatched",
+    "name": "null(1)",
+    "description": "Status der automatisierten Negativnachrichtenprüfung Es wurden Übereinstimmungen gefunden.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "adverseMediaNonMatched",
+    "name": "null(1)",
+    "description": "Status der Negativnachrichtenprüfung: Es gibt keine Übereinstimmungen.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 119,
+    "fieldName": "IsAdverseMediaRiskMedium",
+    "name": "Treffer, die sich aber nicht direkt auf die Geschäftsbeziehung auswirken (versteckt für Risikobestimmung)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "IsAdverseMediaRiskHigh",
+    "name": "Treffer mit direkter und klarer Auswirkung auf die Geschäftsbeziehung (versteckt für Risikobestimmung)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 123,
+    "fieldName": "adverseMediaComment",
+    "name": "Bitte fügen Sie Ihre Kommentare hinzu.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 125,
+    "fieldName": "supplierInvoiceCurrency",
+    "name": "Vom Anbieter angegebene Rechnungswährung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "isCurrencyAppropriate",
+    "name": "Ist die vom Anbieter angegebene Währung angebracht?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 129,
+    "fieldName": "appropriateCurrency_",
+    "name": "Bitte wählen Sie die entsprechende Währung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": null,
+    "description": "Anmerkung: </span>Der Lieferant war nicht erreichbar!</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 117,
+    "fieldName": "adverseMediaManualOptions",
+    "name": "Bitte bestätigen Sie manuell, ob Negativnachrichten gefunden wurden.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "False hits": "Falsche Treffer",
+      "No hits": "Keine Treffer",
+      "Hits that are directly impacting the business relationship": "Gefundene Treffer, die direkte Auswirkungen auf die Geschäftsbeziehung haben",
+      "Hits that are not impacting the business relationship directly": "Gefundene Treffer, die keine direkten Auswirkungen auf die Geschäftsbeziehung haben"
+    },
+    "type": "field"
+  }
+]

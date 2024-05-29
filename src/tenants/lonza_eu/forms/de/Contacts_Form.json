@@ -1,0 +1,92 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Kontakt-Formular",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Bestellung Kontakt",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 5,
+        "fieldName": null,
+        "name": "Kontakt Finanzen",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 8,
+        "fieldName": null,
+        "name": "Kundenspezifischer Service Kontakt",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 11,
+        "fieldName": null,
+        "name": "Vertriebskontakt",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 4,
+        "fieldName": "poContact",
+        "name": "<p><strong>Bitte teilen Sie uns die Kontaktdaten für die Bestellung mit</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Bestellung Kontakt",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "financeContact",
+        "name": "<p><strong>Bitte teilen Sie uns die Kontaktdaten der Finanzabteilung mit</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Kontakt",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 10,
+        "fieldName": "custServiceCobntact",
+        "name": "<p><strong>Bitte geben Sie die Kontaktdaten des Kundendienstes an (optional)</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Kontakt",
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 13,
+        "fieldName": "salesContact",
+        "name": "<p><strong>Bitte teilen Sie uns Ihre Kontaktinformationen mit (optional)</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Kontakt",
+        "choices": null,
+        "type": "field"
+    }
+]

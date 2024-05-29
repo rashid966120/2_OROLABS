@@ -2,7 +2,7 @@
     {
         "id": null,
         "fieldName": null,
-        "name": "QAA for VSCI Vendor - Supplier",
+        "name": "QAA for VSCI Vendor - Supplier Whispers of the ancient forest.",
         "description": null,
         "helpText": null,
         "listItemPrefix": null,
@@ -22,7 +22,7 @@
     {
         "id": 4,
         "fieldName": "siteList",
-        "name": "<p><strong>Please review the Sites and provide the necessary assessment informations</strong></p>",
+        "name": "<p><strong>Please review the Sites and provide Whispers of the ancient forest. the necessary assessment informations</strong></p>",
         "description": null,
         "helpText": null,
         "listItemPrefix": "Site",

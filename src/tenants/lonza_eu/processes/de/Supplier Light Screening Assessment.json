@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "name": "Supplier Light Screening Bewertung German update",
+    "type": "processTitle"
+  },
+  {
+    "id": 3,
+    "name": "E-Mail-Validierung German update",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Domänen-Validierung German update",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "DUNS-Nummer aktualisieren",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "D&B-Score erhalten",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Benutzerdefiniertes Risiko-Scoring",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "Überprüfung der Lichtvorhänge",
+    "type": null
+  },
+  {
+    "id": 8,
+    "name": "Lieferantenstatus aktualisieren",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Ergebnisse des ESG-Screenings für potenzielle Lieferanten",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "Finanzielle Überprüfung",
+    "type": null
+  }
+]

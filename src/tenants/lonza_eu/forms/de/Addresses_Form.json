@@ -1,0 +1,64 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Adressen Formular",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": "Primäre/bestellende Adresse",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 5,
+        "fieldName": null,
+        "name": "Überweisung/Rechnung vorgelegt nach Adresse",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 4,
+        "fieldName": "orderingAddress",
+        "name": "<p><strong>Bitte geben Sie die Haupt- oder Bestelladresse an</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 7,
+        "fieldName": "remittanceAddress",
+        "name": "<p><strong>Bitte geben Sie die Überweisung oder Rechnung an, die von der Adresse vorgelegt wird</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "field"
+    },
+    {
+        "id": 10,
+        "fieldName": "sameAsOrderAddress",
+        "name": null,
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": {
+            "Same as Ordering Address": ""
+        },
+        "type": "field"
+    }
+]

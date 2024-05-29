@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Details für anderen Onboarding-Prozess",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Bitte bestätigen Sie, dass alle Aufgaben für <strong>Tierschutz</strong> <span style=\\\"color: rgb(62, 68, 86);\\\">erfüllt wurden, die für einen </span>Onboarding-Prozess für Lieferanten erforderlich sind.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 6,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "\"<p>Bitte bestätigen Sie, dass alle Aufgaben für <strong>Umwelt, Gesundheit und Sicherheit</strong> erledigt wurden, die für einen Lieferanteneinführungsprozess erforderlich sind.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

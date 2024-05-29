@@ -1,0 +1,32 @@
+[
+    {
+        "id": null,
+        "fieldName": null,
+        "name": "Bewertung für VSCI-Anbieter - Lieferant German update",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "formTitle"
+    },
+    {
+        "id": 1,
+        "fieldName": null,
+        "name": null,
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": null,
+        "choices": null,
+        "type": "section"
+    },
+    {
+        "id": 4,
+        "fieldName": "siteList",
+        "name": "<p><strong>German update Bitte laden Sie den/die erforderlichen Anhang/Anhänge herunter und laden Sie ihn/sie für jede Website hoch.</strong></p>",
+        "description": null,
+        "helpText": null,
+        "listItemPrefix": "Site",
+        "choices": null,
+        "type": "field"
+    }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "Supplier Light Screening Assessment",
+    "requestName": "Proveedor Cribado ligero  Update Version 2",
+    "shortDescription": "Evaluación de la luz de los proveedores  Update Version 2",
+    "stepTitles": {
+      "Matching Supplier(s)": "Proveedor(es) correspondiente(s) Update Version 2",
+      "Business Justification": "Justificación empresarial",
+      "Review Process": "Proceso de revisión",
+      "Supplier": "Proveedor"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "New Supplier Onboarding process",
+    "requestName": "Solicitud de incorporación de proveedores  Update Version 2",
+    "shortDescription": "Solicitud de incorporación de nuevos proveedores",
+    "stepTitles": {
+      "Procurement": "Adquisiciones",
+      "Business Need": "Necesidad empresarial",
+      "Requester": "Solicitante",
+      "Quality": "Calidad",
+      "Legal": "Legal",
+      "Review Process": "Proceso de revisión",
+      "Supplier": "Proveedor",
+      "Accounting Information": "Información contable",
+      "Supplier Qualification Data": "Datos de cualificación de proveedores"
+    },
+    "engagementAttributes": null
+  }
+]

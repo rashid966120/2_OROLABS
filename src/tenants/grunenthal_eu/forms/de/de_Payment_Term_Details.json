@@ -1,0 +1,94 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Einzelheiten zur Zahlungsbedingung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Zahlungsbedingung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Anmerkung: „Sonstige\" (nicht standardisierte Zahlungsbedingungen) bedürfen der Genehmigung durch den Leiter des Beschaffungsbereichs/Leiter der Kreditorenbuchhaltung.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "nonStandardPaymentTerm",
+    "name": "Geben Sie die entsprechende Zahlungsbedingung ein",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "nonStandardPaymentTermReason",
+    "name": "Was ist der Grund für die Wahl einer nicht standardisierten Zahlungsbedingung?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "nonStandardPTYes",
+    "name": "<p>Standard Ja für NonStandardPaymentTerm</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "nonStandardPTNo",
+    "name": "<p>Standard Nr. für NonStandardPaymentTerm</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "isStandardPaymentTerm",
+    "name": "<p>Ich möchte eine Standard-Zahlungsbedingung verwenden</p><p><strong style=\"color: rgb(62, 68, 86);\"><u>Hinweis</u>: „Sonstige\" (nicht standardisierte Zahlungsbedingungen) bedürfen der Genehmigung durch den Leiter des Beschaffungsbereichs/Leiter der Kreditorenbuchhaltung.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Other": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "requesterPaymentTerm",
+    "name": "Wählen Sie die entsprechende Zahlungsbedingung für den Anbieter aus.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
